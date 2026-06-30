@@ -1,0 +1,12 @@
+[project]
+name = "financial-complaint-nlp-resolution-agent"
+version = "0.1.0"
+description = "Financial complaint classification and resolution agent using LSTM, BERT, RAG, and Azure OpenAI."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

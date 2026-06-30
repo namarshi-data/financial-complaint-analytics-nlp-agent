@@ -1,0 +1,997 @@
+Complaint ID,Date received,month,Product,label_clean,Issue,Company,State,Submitted via,Company response to consumer,Timely response?,narrative_word_count
+3425257,2019-11-01,2019-11,Vehicle loan or lease,vehicle_loan_or_lease,Struggling to pay your loan,ALLY FINANCIAL INC.,NJ,Web,Closed with explanation,Yes,318
+3299394,2019-07-08,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NY,Web,Closed with explanation,Yes,413
+3692762,2020-06-10,2020-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,MT,Web,Closed with explanation,Yes,201
+3294745,2019-07-03,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,23
+3186954,2019-03-21,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Identity theft protection or other monitoring services,"NRA Group, LLC",MA,Web,Closed with explanation,Yes,113
+3265029,2019-06-05,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Fees or interest,"BANK OF AMERICA, NATIONAL ASSOCIATION",CA,Web,Closed with monetary relief,Yes,83
+3341310,2019-08-14,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,"CITIBANK, N.A.",FL,Web,Closed with explanation,Yes,86
+3255223,2019-05-28,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,295
+3335521,2019-08-09,2019-08,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,238
+3298872,2019-07-08,2019-07,Mortgage,mortgage,Closing on a mortgage,Ocwen Financial Corporation,VA,Web,Closed with explanation,Yes,304
+3149676,2019-02-12,2019-02,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,"General Motors Financial Company, Inc.",CA,Web,Closed with explanation,Yes,298
+3375949,2019-09-16,2019-09,Mortgage,mortgage,Struggling to pay mortgage,"Shellpoint Partners, LLC",NY,Web,Closed with explanation,Yes,413
+3316937,2019-07-24,2019-07,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Problem with additional add-on products or services,Equitable Acceptance Corp,MI,Web,Closed with explanation,Yes,337
+3212244,2019-04-15,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,VA,Web,Closed with non-monetary relief,Yes,123
+3320115,2019-07-27,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,37
+3115470,2019-01-03,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,NY,Web,Closed with non-monetary relief,Yes,96
+3595457,2020-04-06,2020-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Ad Astra Recovery Services Inc,TX,Web,Closed with explanation,Yes,62
+3282375,2019-06-21,2019-06,Mortgage,mortgage,Struggling to pay mortgage,Home Point Financial Corporation,FL,Web,Closed with explanation,Yes,411
+3095440,2018-12-09,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,49
+2890205,2018-04-27,2018-04,Debt collection,debt_collection,Took or threatened to take negative or legal action,Resurgent Capital Services L.P.,TX,Web,Closed with explanation,Yes,418
+3136798,2019-01-29,2019-01,Mortgage,mortgage,Trouble during payment process,"Caliber Home Loans, Inc.",TX,Web,Closed with explanation,Yes,231
+3359230,2019-08-30,2019-08,Debt collection,debt_collection,Attempts to collect debt not owed,Resurgent Capital Services L.P.,IL,Web,Closed with explanation,Yes,399
+3349843,2019-08-22,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,"EQUIFAX, INC.",AZ,Web,Closed with explanation,Yes,426
+3123748,2019-01-14,2019-01,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,FL,Web,Closed with explanation,Yes,281
+3097999,2018-12-12,2018-12,Checking or savings account,bank_account,Problem with a lender or other company charging your account,"CITIZENS FINANCIAL GROUP, INC.",RI,Web,Closed with monetary relief,Yes,221
+3401729,2019-10-10,2019-10,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",DISCOVER BANK,TX,Web,Closed with explanation,Yes,55
+1916197,2016-05-09,2016-05,Mortgage,mortgage,"Loan servicing, payments, escrow account","Real Time Group, Inc.",TX,Web,Closed with explanation,Yes,577
+3162678,2019-02-25,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,255
+3117762,2019-01-06,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,Fees or interest,JPMORGAN CHASE & CO.,NY,Web,Closed with monetary relief,Yes,170
+3355102,2019-08-27,2019-08,Mortgage,mortgage,Trouble during payment process,"LAKEVIEW LOAN SERVICING, LLC",TX,Web,Closed with explanation,Yes,220
+3398303,2019-10-07,2019-10,Checking or savings account,bank_account,Problem with a lender or other company charging your account,"SANTANDER BANK, NATIONAL ASSOCIATION",MD,Web,Closed with explanation,Yes,250
+3106897,2018-12-21,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Navient Solutions, LLC.",FL,Web,Closed with non-monetary relief,Yes,100
+3127446,2019-01-17,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,U.S. BANCORP,CA,Web,Closed with monetary relief,Yes,340
+3376593,2019-09-17,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",VA,Web,Closed with explanation,Yes,152
+3278843,2019-06-18,2019-06,Mortgage,mortgage,Trouble during payment process,"SELECT PORTFOLIO SERVICING, INC.",KY,Web,Closed with explanation,Yes,512
+3157903,2019-02-20,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,LA,Web,Closed with explanation,Yes,70
+3352752,2019-08-24,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",CAPITAL ONE FINANCIAL CORPORATION,CO,Web,Closed with explanation,Yes,49
+3296115,2019-07-04,2019-07,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"Paypal Holdings, Inc",OR,Web,Closed with explanation,Yes,41
+3265129,2019-06-05,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"BANK OF AMERICA, NATIONAL ASSOCIATION",TX,Web,Closed with monetary relief,Yes,777
+3151425,2019-02-13,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NY,Web,Closed with explanation,Yes,392
+3359255,2019-08-30,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IL,Web,Closed with explanation,Yes,78
+3158075,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,273
+2236895,2016-12-06,2016-12,Student loan,student_loan,Can't repay my loan,Ceannate,MA,Web,Closed with explanation,Yes,122
+2681322,2017-09-22,2017-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NC,Web,Closed with non-monetary relief,Yes,209
+3064962,2018-11-03,2018-11,Mortgage,mortgage,Closing on a mortgage,ETHOS LENDING LLC,CA,Web,Closed with explanation,Yes,300
+3282179,2019-06-21,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",SYNCHRONY FINANCIAL,IL,Web,Closed with explanation,Yes,98
+3161515,2019-02-24,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MO,Web,Closed with explanation,Yes,159
+3316353,2019-07-24,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,CHECK INTO CASH INC.,IN,Web,Closed with explanation,Yes,311
+3357891,2019-08-29,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,GA,Web,Closed with explanation,Yes,200
+3327410,2019-08-02,2019-08,Checking or savings account,bank_account,Problem with a lender or other company charging your account,"BANK OF AMERICA, NATIONAL ASSOCIATION",IL,Web,Closed with monetary relief,Yes,198
+3447267,2019-11-22,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,410
+3202355,2019-04-05,2019-04,Debt collection,debt_collection,Communication tactics,"STERLING JEWELERS, INC.",IL,Web,Closed with explanation,Yes,135
+3603395,2020-04-12,2020-04,Debt collection,debt_collection,Communication tactics,CURO Intermediate Holdings,OR,Web,Closed with explanation,Yes,49
+3331982,2019-08-07,2019-08,Checking or savings account,bank_account,Managing an account,WELLS FARGO & COMPANY,NC,Web,Closed with explanation,Yes,466
+3151629,2019-02-13,2019-02,Checking or savings account,bank_account,Managing an account,"CITIBANK, N.A.",CA,Web,Closed with explanation,Yes,117
+3163733,2019-02-26,2019-02,Mortgage,mortgage,Trouble during payment process,"Dovenmuehle Mortgage, Inc.",NH,Web,Closed with explanation,Yes,164
+3150877,2019-02-13,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,"FAIR COLLECTIONS & OUTSOURCING, INC.",GA,Web,Closed with explanation,Yes,269
+3156880,2019-02-20,2019-02,Student loan,student_loan,Dealing with your lender or servicer,"Nelnet, Inc.",OH,Web,Closed with explanation,Yes,457
+3416502,2019-10-24,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,247
+3162882,2019-02-26,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,"Midwest Fidelity Services, LLC",TN,Web,Closed with explanation,Yes,277
+3296949,2019-07-05,2019-07,Debt collection,debt_collection,Written notification about debt,"CCS Financial Services, Inc.",TX,Web,Closed with explanation,Yes,302
+3386665,2019-09-25,2019-09,Credit card or prepaid card,credit_card_or_prepaid_card,Fees or interest,CAPITAL ONE FINANCIAL CORPORATION,CA,Web,Closed with monetary relief,Yes,420
+4425228,2021-06-02,2021-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"CITIBANK, N.A.",CT,Web,Closed with explanation,Yes,123
+4269844,2021-04-03,2021-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,123
+3173238,2019-03-08,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Fees or interest,Alliance Data Card Services,SC,Web,Closed with explanation,Yes,330
+3400211,2019-10-09,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,"Convergent Resources, Inc.",HI,Web,Closed with explanation,Yes,148
+3113612,2018-12-31,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,GA,Web,Closed with explanation,Yes,208
+3160552,2019-02-22,2019-02,Debt collection,debt_collection,Written notification about debt,"I.Q. DATA INTERNATIONAL, INC.",CA,Web,Closed with explanation,Yes,227
+3160439,2019-02-22,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,DISCOVER BANK,FL,Web,Closed with explanation,Yes,544
+3114085,2019-01-01,2019-01,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,,Web,Closed with explanation,Yes,420
+3108348,2018-12-24,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,41
+3143808,2019-02-05,2019-02,Mortgage,mortgage,Trouble during payment process,PNC Bank N.A.,CO,Web,Closed with explanation,Yes,505
+3161642,2019-02-24,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,DISCOVER BANK,PA,Web,Closed with non-monetary relief,Yes,286
+2710130,2017-10-23,2017-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TN,Web,Closed with explanation,Yes,171
+3274664,2019-06-14,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",AZ,Web,Closed with explanation,Yes,216
+3154429,2019-02-17,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,WELLS FARGO & COMPANY,MD,Web,Closed with explanation,Yes,205
+3356708,2019-08-28,2019-08,Debt collection,debt_collection,Attempts to collect debt not owed,Westcreek Financial,NH,Web,Closed with explanation,Yes,310
+3101130,2018-12-15,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",MD,Web,Closed with explanation,Yes,269
+3117430,2019-01-05,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,REGIONS FINANCIAL CORPORATION,MS,Web,Closed with non-monetary relief,Yes,579
+3318097,2019-07-25,2019-07,Student loan,student_loan,Struggling to repay your loan,"Navient Solutions, LLC.",MI,Web,Closed with explanation,Yes,215
+3165638,2019-02-28,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",PA,Web,Closed with explanation,Yes,251
+3105623,2018-12-20,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,NAVY FEDERAL CREDIT UNION,WI,Web,Closed with explanation,Yes,87
+3101411,2018-12-16,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",MS,Web,Closed with explanation,Yes,129
+3348696,2019-08-20,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,Alliance Data Card Services,TX,Web,Closed with explanation,Yes,156
+3115823,2019-01-03,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"EQUIFAX, INC.",PA,Web,Closed with non-monetary relief,Yes,212
+3137913,2019-01-30,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,NJ,Web,Closed with explanation,Yes,78
+2646947,2017-08-16,2017-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,IL,Web,Closed with non-monetary relief,Yes,154
+3295995,2019-07-04,2019-07,Mortgage,mortgage,Trouble during payment process,JPMORGAN CHASE & CO.,NY,Web,Closed with explanation,Yes,134
+2436870,2017-04-15,2017-04,Debt collection,debt_collection,Cont'd attempts collect debt not owed,AMERICAN EXPRESS COMPANY,MI,Web,Closed with explanation,Yes,37
+3083330,2018-11-26,2018-11,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",CAPITAL ONE FINANCIAL CORPORATION,NJ,Web,Closed with explanation,Yes,193
+3105900,2018-12-20,2018-12,Mortgage,mortgage,Struggling to pay mortgage,State Home Mortgage,GA,Web,Closed with explanation,No,178
+2746321,2017-12-05,2017-12,Debt collection,debt_collection,Attempts to collect debt not owed,Midwest Recovery Systems,IA,Web,Closed with explanation,Yes,41
+3359179,2019-08-30,2019-08,Debt collection,debt_collection,Attempts to collect debt not owed,"Russell Collection Agency, Inc",MI,Web,Closed with explanation,Yes,37
+3112364,2018-12-29,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,36
+3127203,2019-01-17,2019-01,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,ALLY FINANCIAL INC.,VA,Web,Closed with explanation,Yes,193
+3306885,2019-07-15,2019-07,Checking or savings account,bank_account,Closing an account,"CIT BANK, NATIONAL ASSOCIATION",CA,Web,Closed with explanation,Yes,71
+3553293,2020-03-04,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,ERC,FL,Web,Closed with explanation,Yes,290
+3172000,2019-03-07,2019-03,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",CO,Web,Closed with explanation,Yes,393
+3101401,2018-12-15,2018-12,Debt collection,debt_collection,Written notification about debt,"CITIBANK, N.A.",VA,Web,Closed with non-monetary relief,Yes,573
+3170154,2019-03-05,2019-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,"C & M Associates Group, Inc.",ME,Web,Closed with explanation,Yes,511
+3137623,2019-01-30,2019-01,Student loan,student_loan,Struggling to repay your loan,AES/PHEAA,CA,Web,Closed with explanation,Yes,212
+3183216,2019-03-18,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with non-monetary relief,Yes,19
+3145533,2019-02-07,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IN,Web,Closed with explanation,Yes,403
+3165336,2019-02-28,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase or transfer,CARD Corporation,PA,Web,Closed with explanation,Yes,174
+3113989,2019-01-01,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,62
+3165363,2019-02-28,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,WELLS FARGO & COMPANY,FL,Web,Closed with non-monetary relief,Yes,114
+3158816,2019-02-21,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,Phoenix Financial Services LLC,FL,Web,Closed with explanation,Yes,201
+3319824,2019-07-26,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,JPMORGAN CHASE & CO.,CA,Web,Closed with non-monetary relief,Yes,179
+4347871,2021-05-04,2021-05,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,VA,Web,Closed with non-monetary relief,Yes,174
+3258729,2019-05-30,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"BANK OF AMERICA, NATIONAL ASSOCIATION",GA,Web,Closed with non-monetary relief,Yes,179
+3110429,2018-12-27,2018-12,Mortgage,mortgage,Trouble during payment process,"CITIBANK, N.A.",DE,Web,Closed with explanation,Yes,439
+4226495,2021-03-19,2021-03,Mortgage,mortgage,Closing on a mortgage,"Community Loan Servicing, LLC (formerly known as Bayview Loan Servicing, LLC)",MD,Web,Closed with explanation,Yes,260
+3127620,2019-01-17,2019-01,Checking or savings account,bank_account,Problem with a lender or other company charging your account,ALLY FINANCIAL INC.,MS,Web,Closed with explanation,Yes,225
+3108144,2018-12-23,2018-12,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",JPMORGAN CHASE & CO.,FL,Web,Closed with non-monetary relief,Yes,246
+3269614,2019-06-10,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,49
+3165294,2019-02-28,2019-02,Checking or savings account,bank_account,Problem with a lender or other company charging your account,TD BANK US HOLDING COMPANY,PA,Web,Closed with explanation,Yes,79
+3613551,2020-04-19,2020-04,Mortgage,mortgage,Trouble during payment process,"Shellpoint Partners, LLC",NC,Web,Closed with explanation,No,282
+3264901,2019-06-05,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,71
+3166848,2019-03-01,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",PA,Web,Closed with explanation,Yes,114
+3170219,2019-03-05,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Credit Karma, LLC",CA,Web,Closed with explanation,Yes,218
+4200161,2021-03-10,2021-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TN,Web,Closed with explanation,Yes,378
+3324481,2019-07-31,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a company's investigation into an existing issue,JPMORGAN CHASE & CO.,FL,Web,Closed with explanation,Yes,120
+3153910,2019-02-16,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,CAPITAL ONE FINANCIAL CORPORATION,CA,Web,Closed with explanation,Yes,120
+3485579,2020-01-05,2020-01,Checking or savings account,bank_account,Managing an account,WELLS FARGO & COMPANY,FL,Web,Closed with explanation,No,591
+3099736,2018-12-13,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MT,Web,Closed with explanation,Yes,414
+3192918,2019-03-27,2019-03,Debt collection,debt_collection,Communication tactics,COAST PROFESSIONAL INC,AZ,Web,Closed with explanation,Yes,153
+3127401,2019-01-17,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",TX,Web,Closed with explanation,Yes,11
+3602616,2020-04-11,2020-04,Credit card or prepaid card,credit_card_or_prepaid_card,Problem getting a card or closing an account,"Paypal Holdings, Inc",FL,Web,Closed with non-monetary relief,Yes,243
+3151991,2019-02-14,2019-02,Checking or savings account,bank_account,Closing an account,BBVA FINANCIAL CORPORATION,TX,Web,Closed with explanation,Yes,159
+3132557,2019-01-24,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",OH,Web,Closed with explanation,Yes,245
+3141269,2019-02-03,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,WELLS FARGO & COMPANY,TX,Web,Closed with non-monetary relief,Yes,137
+3181938,2019-03-16,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"Commonwealth Financial Systems, Inc.",FL,Web,Closed with explanation,Yes,93
+3133008,2019-01-25,2019-01,Mortgage,mortgage,Struggling to pay mortgage,Ocwen Financial Corporation,OH,Web,Closed with explanation,Yes,255
+3469940,2019-12-16,2019-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Fidelity National Information Services, Inc. (FNIS)",MA,Web,Closed with explanation,Yes,159
+3150234,2019-02-12,2019-02,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,United Acceptance Inc.,GA,Web,Closed with explanation,Yes,297
+3380175,2019-09-19,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",OH,Web,Closed with non-monetary relief,Yes,60
+3326932,2019-08-02,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,MS,Web,Closed with explanation,Yes,124
+3154478,2019-02-16,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,CAPITAL ONE FINANCIAL CORPORATION,FL,Web,Closed with explanation,Yes,163
+3205878,2019-04-09,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,349
+3130716,2019-01-22,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,NV,Web,Closed with non-monetary relief,Yes,127
+3369453,2019-09-10,2019-09,Mortgage,mortgage,Struggling to pay mortgage,U.S. BANCORP,FL,Web,Closed with explanation,Yes,269
+3149371,2019-02-11,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"Credit Karma, LLC",PA,Web,Closed with explanation,No,32
+3374691,2019-09-16,2019-09,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,WELLS FARGO & COMPANY,OH,Web,Closed with monetary relief,Yes,374
+3096162,2018-12-10,2018-12,Checking or savings account,bank_account,Closing an account,"BANK OF AMERICA, NATIONAL ASSOCIATION",CA,Web,Closed with explanation,Yes,185
+3395762,2019-10-04,2019-10,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,"Rocket Mortgage, LLC",KS,Web,Closed with explanation,Yes,523
+3160575,2019-02-22,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,SC,Web,Closed with explanation,Yes,142
+3160874,2019-02-23,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"ID Analytics, Inc.",GA,Web,Closed with explanation,Yes,102
+3328277,2019-08-02,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",MO,Web,Closed with explanation,Yes,53
+3117586,2019-01-06,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NY,Web,Closed with explanation,Yes,337
+3155122,2019-02-18,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,17
+3319374,2019-07-26,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,54
+3438409,2019-11-14,2019-11,Debt collection,debt_collection,Attempts to collect debt not owed,"Key 2 Recovery, Inc.",KY,Web,Closed with explanation,Yes,148
+3162949,2019-02-26,2019-02,Debt collection,debt_collection,Written notification about debt,TRANSWORLD SYSTEMS INC,NJ,Web,Closed with explanation,Yes,283
+3091359,2018-12-04,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"EQUIFAX, INC.",TN,Web,Closed with explanation,Yes,94
+3169025,2019-03-04,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,Alliance Data Card Services,CA,Web,Closed with explanation,Yes,239
+3161834,2019-02-25,2019-02,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",PA,Web,Closed with explanation,Yes,441
+3347189,2019-08-20,2019-08,Debt collection,debt_collection,Communication tactics,"Navient Solutions, LLC.",SC,Web,Closed with explanation,Yes,190
+3532609,2020-02-14,2020-02,Debt collection,debt_collection,Written notification about debt,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NY,Web,Closed with explanation,Yes,222
+3166890,2019-03-01,2019-03,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",VA,Web,Closed with explanation,Yes,473
+3354341,2019-08-26,2019-08,Debt collection,debt_collection,Took or threatened to take negative or legal action,Eaton Group Attorneys LLC,LA,Web,Closed with explanation,Yes,318
+3402420,2019-10-10,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",AZ,Web,Closed with explanation,Yes,61
+3255999,2019-05-29,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with non-monetary relief,Yes,384
+3479185,2019-12-28,2019-12,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",NY,Web,Closed with explanation,Yes,203
+3129084,2019-01-19,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,Experian Information Solutions Inc.,VA,Web,Closed with explanation,Yes,337
+3311845,2019-07-19,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NY,Web,Closed with explanation,Yes,21
+3219593,2019-04-23,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,266
+2137507,2016-09-28,2016-09,Consumer Loan,consumer_loan,Managing the loan or lease,"TRIAD FINANCIAL SERVICES, INC.",FL,Web,Closed with explanation,Yes,184
+3376732,2019-09-17,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NY,Web,Closed with non-monetary relief,Yes,10
+3345639,2019-08-19,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",CAPITAL ONE FINANCIAL CORPORATION,VA,Web,Closed with non-monetary relief,Yes,144
+3325655,2019-07-31,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,61
+3185583,2019-03-20,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",WELLS FARGO & COMPANY,SC,Web,Closed with monetary relief,Yes,173
+3417981,2019-10-25,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,"FAIR COLLECTIONS & OUTSOURCING, INC.",NV,Web,Closed with explanation,Yes,70
+3356961,2019-08-28,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"EQUIFAX, INC.",GA,Web,Closed with non-monetary relief,Yes,87
+3564203,2020-03-12,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,305
+3303916,2019-07-12,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",AL,Web,Closed with explanation,Yes,89
+3398479,2019-10-08,2019-10,Checking or savings account,bank_account,Problem caused by your funds being low,"SUNTRUST BANKS, INC.",CT,Web,Closed with explanation,Yes,26
+3241170,2019-05-13,2019-05,Vehicle loan or lease,vehicle_loan_or_lease,Getting a loan or lease,"BANK OF AMERICA, NATIONAL ASSOCIATION",GA,Web,Closed with non-monetary relief,Yes,481
+3151371,2019-02-13,2019-02,Checking or savings account,bank_account,Problem with a lender or other company charging your account,JPMORGAN CHASE & CO.,CA,Web,Closed with monetary relief,Yes,305
+3218842,2019-04-22,2019-04,Debt collection,debt_collection,Attempts to collect debt not owed,"Continental Finance Company, LLC",OK,Web,Closed with explanation,Yes,381
+3142775,2019-02-05,2019-02,Checking or savings account,bank_account,Closing an account,BANK OF THE WEST,CA,Web,Closed with monetary relief,Yes,167
+3455599,2019-12-03,2019-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,PA,Web,Closed with explanation,Yes,144
+3305776,2019-07-13,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",DC,Web,Closed with explanation,Yes,130
+3111386,2018-12-28,2018-12,Debt collection,debt_collection,Took or threatened to take negative or legal action,"SUNTRUST BANKS, INC.",AZ,Web,Closed with explanation,Yes,195
+3396765,2019-10-05,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,"Choice Recovery, Inc.",SC,Web,Closed with explanation,Yes,224
+3171591,2019-03-06,2019-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,HSBC NORTH AMERICA HOLDINGS INC.,PA,Web,Closed with explanation,Yes,470
+3366748,2019-09-07,2019-09,Debt collection,debt_collection,Took or threatened to take negative or legal action,"Pollack & Rosen, P.A.",FL,Web,Closed with explanation,Yes,184
+3121927,2019-01-10,2019-01,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,TX,Web,Closed with explanation,Yes,21
+3297524,2019-07-06,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,117
+3334893,2019-08-09,2019-08,Debt collection,debt_collection,Written notification about debt,"CCS Financial Services, Inc.",OH,Web,Closed with explanation,Yes,45
+3329009,2019-08-03,2019-08,Mortgage,mortgage,Trouble during payment process,M&T BANK CORPORATION,MI,Web,Closed with monetary relief,Yes,517
+2132956,2016-09-27,2016-09,Debt collection,debt_collection,False statements or representation,"Platinum Holdings Group, LLC",OH,Web,Closed with explanation,Yes,127
+3247456,2019-05-20,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",AL,Web,Closed with explanation,Yes,201
+3163231,2019-02-26,2019-02,Debt collection,debt_collection,Took or threatened to take negative or legal action,CREDIT ACCEPTANCE CORPORATION,TN,Web,Closed with explanation,Yes,99
+3039006,2018-10-06,2018-10,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Charged fees or interest you didn't expect,"Opportunity Financial, LLC",CA,Web,Closed with explanation,No,220
+3479217,2019-12-28,2019-12,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",Alliance Data Card Services,IL,Web,Closed with explanation,Yes,268
+3339348,2019-08-13,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,80
+3317459,2019-07-24,2019-07,Debt collection,debt_collection,Communication tactics,"Bliksum, LLC",CA,Web,Closed with explanation,Yes,62
+3158045,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NY,Web,Closed with explanation,Yes,192
+3297132,2019-07-05,2019-07,Debt collection,debt_collection,Attempts to collect debt not owed,"The CMI Group, Inc.",GA,Web,Closed with non-monetary relief,Yes,616
+3159540,2019-02-22,2019-02,Debt collection,debt_collection,Written notification about debt,"The CMI Group, Inc.",TN,Web,Closed with non-monetary relief,Yes,361
+3298269,2019-07-08,2019-07,Mortgage,mortgage,Closing on a mortgage,Supreme Lending,WA,Web,Closed with explanation,Yes,542
+3553538,2020-03-04,2020-03,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,BARCLAYS BANK DELAWARE,VA,Web,Closed with explanation,Yes,138
+3238054,2019-05-10,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",TX,Web,Closed with explanation,Yes,246
+2265295,2016-12-28,2016-12,Debt collection,debt_collection,Cont'd attempts collect debt not owed,Midwest Recovery Systems,TX,Web,Closed with explanation,No,189
+3374707,2019-09-15,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",AR,Web,Closed with explanation,Yes,247
+3318096,2019-07-25,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",OH,Web,Closed with explanation,Yes,263
+3177511,2019-03-12,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",OH,Web,Closed with explanation,Yes,82
+3716680,2020-06-26,2020-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",WA,Web,Closed with monetary relief,Yes,197
+3166272,2019-03-01,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,315
+3007698,2018-08-31,2018-08,Mortgage,mortgage,Trouble during payment process,Ditech Financial LLC,NC,Web,Closed with non-monetary relief,Yes,185
+2910434,2018-05-18,2018-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MD,Web,Closed with explanation,Yes,237
+3315159,2019-07-23,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,97
+4551964,2021-07-17,2021-07,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,FIRST NATIONAL BANK OF OMAHA,CA,Web,Closed with explanation,Yes,399
+4290459,2021-04-12,2021-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MI,Web,Closed with explanation,Yes,30
+4602240,2021-08-04,2021-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",OR,Web,Closed with explanation,Yes,162
+2839222,2018-03-10,2018-03,Checking or savings account,bank_account,Managing an account,"FIRST CITIZENS BANCSHARES, INC.",NC,Web,Closed with explanation,Yes,272
+3155903,2019-02-19,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",VA,Web,Closed with explanation,Yes,94
+3379807,2019-09-19,2019-09,Student loan,student_loan,Dealing with your lender or servicer,Earnest Inc.,MN,Web,Closed with explanation,Yes,187
+3152205,2019-02-14,2019-02,Student loan,student_loan,Dealing with your lender or servicer,First Associates Loan Servicing LLC,MO,Web,Closed with explanation,Yes,241
+3158081,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,304
+3301975,2019-07-10,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,120
+3182982,2019-03-18,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,JPMORGAN CHASE & CO.,AR,Web,Closed with explanation,Yes,157
+3174301,2019-03-09,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,Experian Information Solutions Inc.,IA,Web,Closed with non-monetary relief,Yes,216
+3120121,2019-01-09,2019-01,Student loan,student_loan,Struggling to repay your loan,SLM CORPORATION,NC,Web,Closed with explanation,Yes,377
+3201846,2019-04-04,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,FIFTH THIRD FINANCIAL CORPORATION,MI,Web,Closed with explanation,Yes,131
+4754828,2021-09-26,2021-09,Checking or savings account,bank_account,Managing an account,U.S. BANCORP,NC,Web,Closed with monetary relief,Yes,918
+4522461,2021-07-07,2021-07,Vehicle loan or lease,vehicle_loan_or_lease,Problems at the end of the loan or lease,"Avid Acceptance, LLC",TN,Web,Closed with explanation,Yes,268
+1853475,2016-03-28,2016-03,Mortgage,mortgage,"Loan servicing, payments, escrow account",NATIONSTAR MORTGAGE,FL,Web,Closed with explanation,Yes,235
+3151824,2019-02-14,2019-02,Checking or savings account,bank_account,Managing an account,UMB FINANCIAL CORPORATION,MN,Web,Closed with explanation,Yes,396
+3165576,2019-02-28,2019-02,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",VA,Web,Closed with explanation,Yes,346
+3219625,2019-04-23,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"NCC Business Services, Inc.",GA,Web,Closed with explanation,Yes,149
+3113712,2018-12-31,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Profit Services Group,GA,Web,Closed with explanation,No,223
+2486333,2017-05-18,2017-05,Debt collection,debt_collection,Attempts to collect debt not owed,Midwest Recovery Systems,CA,Web,Closed with explanation,Yes,239
+3193270,2019-03-27,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,130
+3161584,2019-02-24,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,AES/PHEAA,SC,Web,Closed with explanation,Yes,305
+3317643,2019-07-25,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,219
+3139550,2019-02-01,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with non-monetary relief,Yes,395
+3284685,2019-06-24,2019-06,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,ALLY FINANCIAL INC.,NV,Web,Closed with explanation,Yes,45
+4179545,2021-03-03,2021-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CT,Web,Closed with explanation,Yes,21
+3394273,2019-10-03,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,106
+3121452,2019-01-10,2019-01,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"Home Loan Center, Inc.",MN,Web,Closed with explanation,Yes,110
+3163833,2019-02-26,2019-02,Mortgage,mortgage,Struggling to pay mortgage,"FLAGSTAR BANK, FSB",CT,Web,Closed with explanation,Yes,220
+3159482,2019-02-22,2019-02,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",FL,Web,Closed with explanation,Yes,191
+3158998,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,WELLS FARGO & COMPANY,WA,Web,Closed with non-monetary relief,Yes,117
+3085969,2018-11-28,2018-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,117
+3256859,2019-05-29,2019-05,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Charged fees or interest you didn't expect,Worth Finance Corporation,TX,Web,Closed with explanation,Yes,341
+3577667,2020-03-24,2020-03,Vehicle loan or lease,vehicle_loan_or_lease,Getting a loan or lease,TOYOTA MOTOR CREDIT CORPORATION,MA,Web,Closed with explanation,Yes,439
+3310272,2019-07-17,2019-07,Debt collection,debt_collection,Attempts to collect debt not owed,"Sequium Asset Solutions, LLC",FL,Web,Closed with explanation,Yes,105
+3200362,2019-04-03,2019-04,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",JPMORGAN CHASE & CO.,OH,Web,Closed with non-monetary relief,Yes,133
+3331200,2019-08-06,2019-08,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,"Better Mortgage, Inc.",ME,Web,Closed with explanation,No,164
+3176377,2019-03-11,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,VA,Web,Closed with explanation,Yes,176
+3425645,2019-11-01,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,AMERICAN HONDA FINANCE CORP,FL,Web,Closed with explanation,Yes,180
+3095292,2018-12-09,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,"EQUIFAX, INC.",AR,Web,Closed with non-monetary relief,Yes,16
+1933867,2016-05-19,2016-05,Mortgage,mortgage,"Loan servicing, payments, escrow account",Freedom Mortgage Company,WV,Web,Closed with explanation,Yes,210
+2557071,2017-06-23,2017-06,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"WESTERN UNION COMPANY, THE",,Web,Closed with explanation,Yes,295
+3301125,2019-07-09,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,"BANK OF AMERICA, NATIONAL ASSOCIATION",AZ,Web,Closed with non-monetary relief,Yes,341
+3294057,2019-07-02,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",SC,Web,Closed with explanation,Yes,161
+3868978,2020-09-28,2020-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,MA,Web,Closed with explanation,Yes,154
+3301287,2019-07-10,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",U.S. BANCORP,TX,Web,Closed with explanation,Yes,323
+3450415,2019-11-26,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,29
+3300847,2019-07-09,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,SYNCHRONY FINANCIAL,FL,Web,Closed with explanation,Yes,107
+2624444,2017-08-19,2017-08,Mortgage,mortgage,Closing on a mortgage,WINNPOINTE CORPORATION,CA,Web,Closed with explanation,No,290
+3154496,2019-02-17,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,160
+3094756,2018-12-08,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,30
+3365103,2019-09-06,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,UT,Web,Closed with explanation,Yes,380
+3159070,2019-02-21,2019-02,Checking or savings account,bank_account,Opening an account,"CITIZENS FINANCIAL GROUP, INC.",CT,Web,Closed with monetary relief,Yes,164
+3118941,2019-01-08,2019-01,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"BANK OF AMERICA, NATIONAL ASSOCIATION",FL,Web,Closed with monetary relief,Yes,223
+3167061,2019-03-01,2019-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,DISCOVER BANK,NJ,Web,Closed with explanation,Yes,846
+3294820,2019-07-03,2019-07,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Problem with the payoff process at the end of the loan,MoneyLion Inc.,AZ,Web,Closed with explanation,Yes,305
+3009817,2018-09-04,2018-09,Mortgage,mortgage,Trouble during payment process,"American Financial Resources, Inc.",GA,Web,Closed with explanation,Yes,329
+3248003,2019-05-20,2019-05,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",IL,Web,Closed with explanation,Yes,52
+3391916,2019-10-01,2019-10,Student loan,student_loan,Struggling to repay your loan,"Navient Solutions, LLC.",AL,Web,Closed with explanation,Yes,257
+3334279,2019-08-09,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,127
+3303577,2019-07-11,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NY,Web,Closed with explanation,Yes,30
+3553851,2020-03-04,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",WA,Web,Closed with explanation,Yes,249
+3257033,2019-05-29,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,NC,Web,Closed with explanation,Yes,262
+2560504,2017-06-27,2017-06,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,UNITED SERVICES AUTOMOBILE ASSOCIATION,TX,Web,Closed with explanation,Yes,338
+3302005,2019-07-10,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Confusing or missing disclosures,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,181
+3250381,2019-05-22,2019-05,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,PA,Web,Closed with non-monetary relief,Yes,875
+3198732,2019-04-02,2019-04,Student loan,student_loan,Dealing with your lender or servicer,"College Ave Student Loan Servicing, LLC",NY,Web,Closed with explanation,Yes,162
+3220915,2019-04-24,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",VA,Web,Closed with explanation,Yes,92
+3216493,2019-04-18,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"CCS Financial Services, Inc.",OH,Web,Closed with explanation,Yes,97
+3159525,2019-02-22,2019-02,Mortgage,mortgage,Trouble during payment process,NATIONSTAR MORTGAGE,LA,Web,Closed with explanation,Yes,832
+3351971,2019-08-23,2019-08,Debt collection,debt_collection,False statements or representation,"Gurstel Law Firm, P.C.",AZ,Web,Closed with explanation,Yes,384
+3267492,2019-06-07,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"CITIBANK, N.A.",CA,Web,Closed with explanation,Yes,235
+3161767,2019-02-24,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IL,Web,Closed with explanation,Yes,620
+4488517,2021-06-24,2021-06,Student loan,student_loan,Dealing with your lender or servicer,"Nelnet, Inc.",OH,Web,Closed with explanation,Yes,129
+3293296,2019-07-01,2019-07,Checking or savings account,bank_account,Managing an account,POPULAR BANK,FL,Web,Closed with explanation,Yes,400
+3106554,2018-12-20,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,6
+3458868,2019-12-05,2019-12,Debt collection,debt_collection,Communication tactics,JPMORGAN CHASE & CO.,GA,Web,Closed with explanation,Yes,145
+4343120,2021-05-02,2021-05,Vehicle loan or lease,vehicle_loan_or_lease,Problems at the end of the loan or lease,JPMORGAN CHASE & CO.,CA,Web,Closed with monetary relief,Yes,1278
+3250382,2019-05-22,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MD,Web,Closed with explanation,Yes,133
+2559206,2017-06-26,2017-06,Mortgage,mortgage,Trouble during payment process,"Seterus, Inc.",FL,Web,Closed with explanation,Yes,315
+2711784,2017-10-25,2017-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"EQUIFAX, INC.",OH,Web,Closed with explanation,No,321
+2716847,2017-10-31,2017-10,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Problem with additional add-on products or services,"Harpeth Financial Services, LLC",TN,Web,Closed with explanation,Yes,103
+2717081,2017-10-31,2017-10,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,BANK OF THE WEST,IA,Web,Closed with explanation,Yes,220
+2727668,2017-11-14,2017-11,Debt collection,debt_collection,Written notification about debt,ENCORE CAPITAL GROUP INC.,KY,Web,Closed with explanation,Yes,336
+2828511,2018-02-28,2018-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"EQUIFAX, INC.",PA,Web,Closed with explanation,Yes,156
+2548818,2017-04-27,2017-04,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,WI,Web,Closed with explanation,Yes,292
+2480187,2017-05-09,2017-05,Mortgage,mortgage,Trouble during payment process,"SELECT PORTFOLIO SERVICING, INC.",WA,Web,Closed with explanation,Yes,336
+2633377,2017-08-14,2017-08,Student loan,student_loan,Struggling to repay your loan,"GLOBAL CLIENT SOLUTIONS, LLC",OH,Web,Closed with explanation,Yes,173
+2579394,2017-07-19,2017-07,Student loan,student_loan,Dealing with your lender or servicer,"Nelnet, Inc.",TX,Web,Closed with explanation,Yes,289
+2795925,2018-01-28,2018-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",KY,Web,Closed with explanation,Yes,143
+3062009,2018-10-31,2018-10,Vehicle loan or lease,vehicle_loan_or_lease,Getting a loan or lease,Santander Consumer USA Holdings Inc.,NC,Web,Closed with explanation,Yes,462
+2789326,2018-01-22,2018-01,Debt collection,debt_collection,False statements or representation,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,285
+2677209,2017-09-18,2017-09,Credit card or prepaid card,credit_card_or_prepaid_card,Struggling to pay your bill,Alliance Data Card Services,FL,Web,Closed with monetary relief,Yes,324
+2734804,2017-11-21,2017-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"Convergent Resources, Inc.",VA,Web,Closed with explanation,Yes,60
+3401383,2019-10-10,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,86
+3448742,2019-11-23,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CT,Web,Closed with explanation,Yes,78
+2735729,2017-11-22,2017-11,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,"CITIBANK, N.A.",NC,Web,Closed with explanation,Yes,355
+3245935,2019-05-17,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,MA,Web,Closed with explanation,Yes,16
+2993804,2018-08-16,2018-08,Debt collection,debt_collection,Attempts to collect debt not owed,Zenith Financial Network Inc,CA,Web,Closed with explanation,Yes,209
+3088604,2018-12-01,2018-12,Debt collection,debt_collection,Attempts to collect debt not owed,"EQUIFAX, INC.",WA,Web,Closed with explanation,Yes,254
+3160974,2019-02-23,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,82
+3164766,2019-02-27,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,AES/PHEAA,ND,Web,Closed with explanation,Yes,161
+3330206,2019-08-05,2019-08,Mortgage,mortgage,Closing on a mortgage,Specialized Loan Servicing Holdings LLC,VA,Web,Closed with explanation,Yes,228
+3582160,2020-03-27,2020-03,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a credit reporting company's investigation into an existing problem,CAPITAL ONE FINANCIAL CORPORATION,MO,Web,Closed with explanation,Yes,169
+3180877,2019-03-15,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Navient Solutions, LLC.",GA,Web,Closed with explanation,Yes,467
+3205547,2019-04-08,2019-04,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",CAPITAL ONE FINANCIAL CORPORATION,NY,Web,Closed with explanation,Yes,244
+3187455,2019-03-21,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,253
+3433148,2019-11-08,2019-11,Mortgage,mortgage,Struggling to pay mortgage,"LoanCare, LLC",NY,Web,Closed with explanation,Yes,2073
+3279889,2019-06-19,2019-06,Debt collection,debt_collection,Took or threatened to take negative or legal action,ENCORE CAPITAL GROUP INC.,CA,Web,Closed with non-monetary relief,Yes,1470
+3239883,2019-05-12,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,VA,Web,Closed with explanation,Yes,277
+3307174,2019-07-15,2019-07,Checking or savings account,bank_account,Managing an account,"BANK OF AMERICA, NATIONAL ASSOCIATION",CA,Web,Closed with explanation,Yes,148
+3216701,2019-04-18,2019-04,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,Alliance Data Card Services,LA,Web,Closed with explanation,Yes,310
+3213138,2019-04-16,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,ID,Web,Closed with non-monetary relief,Yes,126
+3215437,2019-04-17,2019-04,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Loan payment wasn't credited to your account,Santander Consumer USA Holdings Inc.,MI,Web,Closed with explanation,Yes,530
+3561409,2020-03-10,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"EQUIFAX, INC.",PR,Web,Closed with explanation,Yes,222
+3446975,2019-11-22,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,19
+3363683,2019-09-04,2019-09,Debt collection,debt_collection,Attempts to collect debt not owed,"National Enterprise Systems, Inc.",CA,Web,Closed with explanation,Yes,373
+3153475,2019-02-15,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,278
+3222275,2019-04-25,2019-04,Debt collection,debt_collection,Communication tactics,"Pendrick Capital Partners Holding, LLC",FL,Web,Closed with explanation,Yes,415
+3524310,2020-02-07,2020-02,Checking or savings account,bank_account,Problem caused by your funds being low,WELLS FARGO & COMPANY,TX,Web,Closed with explanation,No,165
+3219919,2019-04-23,2019-04,Mortgage,mortgage,Struggling to pay mortgage,WELLS FARGO & COMPANY,CT,Web,Closed with explanation,Yes,323
+3177688,2019-03-12,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",OH,Web,Closed with explanation,Yes,162
+3233574,2019-05-06,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IN,Web,Closed with explanation,Yes,103
+3219198,2019-04-22,2019-04,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers","CITIBANK, N.A.",NY,Web,Closed with explanation,Yes,202
+3523512,2020-02-07,2020-02,Mortgage,mortgage,Struggling to pay mortgage,"LAKEVIEW LOAN SERVICING, LLC",GA,Web,Closed with explanation,Yes,451
+3233225,2019-05-05,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,140
+3182297,2019-03-17,2019-03,Checking or savings account,bank_account,Closing an account,JPMORGAN CHASE & CO.,WI,Web,Closed with explanation,Yes,151
+3224174,2019-04-26,2019-04,Checking or savings account,bank_account,Managing an account,"CITIBANK, N.A.",WI,Web,Closed with explanation,Yes,275
+3226715,2019-04-29,2019-04,Checking or savings account,bank_account,Opening an account,"CITIBANK, N.A.",CA,Web,Closed with explanation,Yes,540
+4685055,2021-09-02,2021-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,83
+2180490,2016-10-26,2016-10,Money transfers,money_transfers,Other transaction issues,"CITIBANK, N.A.",,Web,Closed with explanation,Yes,247
+3229232,2019-05-01,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,TD BANK US HOLDING COMPANY,CA,Web,Closed with non-monetary relief,Yes,119
+3352030,2019-08-23,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TN,Web,Closed with non-monetary relief,Yes,129
+3214183,2019-04-16,2019-04,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"BANK OF AMERICA, NATIONAL ASSOCIATION",NY,Web,Closed with explanation,Yes,288
+3284004,2019-06-23,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,Experian Information Solutions Inc.,MA,Web,Closed with monetary relief,Yes,123
+3524192,2020-02-07,2020-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",AR,Web,Closed with explanation,Yes,71
+3178359,2019-03-13,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",CAPITAL ONE FINANCIAL CORPORATION,NY,Web,Closed with monetary relief,Yes,329
+3174146,2019-03-08,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",WELLS FARGO & COMPANY,CA,Web,Closed with monetary relief,Yes,164
+3204011,2019-04-06,2019-04,Checking or savings account,bank_account,Closing an account,JPMORGAN CHASE & CO.,NY,Web,Closed with explanation,Yes,367
+3195432,2019-03-29,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,CAPITAL ONE FINANCIAL CORPORATION,CT,Web,Closed with non-monetary relief,Yes,192
+4436572,2021-06-07,2021-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,10
+3229988,2019-05-02,2019-05,Checking or savings account,bank_account,Problem caused by your funds being low,TD BANK US HOLDING COMPANY,NY,Web,Closed with explanation,Yes,248
+3224533,2019-04-26,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"CITIBANK, N.A.",CA,Web,Closed with non-monetary relief,Yes,200
+3571591,2020-03-18,2020-03,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Struggling to pay your loan,"ACIMA CREDIT, LLC",GA,Web,Closed with explanation,Yes,179
+3223670,2019-04-26,2019-04,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,206
+3226358,2019-04-29,2019-04,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",MO,Web,Closed with explanation,Yes,514
+3196621,2019-03-30,2019-03,Mortgage,mortgage,Trouble during payment process,WELLS FARGO & COMPANY,MA,Web,Closed with explanation,Yes,201
+3294695,2019-07-03,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,FIRST NATIONAL BANK OF OMAHA,HI,Web,Closed with explanation,Yes,164
+3262532,2019-06-03,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,143
+2878108,2018-04-18,2018-04,Debt collection,debt_collection,Took or threatened to take negative or legal action,RoundPoint Mortgage Servicing Corporation,TX,Web,Closed with explanation,Yes,577
+3230119,2019-05-02,2019-05,Debt collection,debt_collection,Attempts to collect debt not owed,PORTFOLIO RECOVERY ASSOCIATES INC,CA,Web,Closed with non-monetary relief,Yes,207
+3201332,2019-04-04,2019-04,Mortgage,mortgage,Trouble during payment process,"FLAGSTAR BANK, FSB",TX,Web,Closed with explanation,Yes,288
+3241433,2019-05-14,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,433
+3171487,2019-03-06,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,JPMORGAN CHASE & CO.,GA,Web,Closed with explanation,Yes,130
+3183574,2019-03-18,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IL,Web,Closed with explanation,Yes,72
+3329271,2019-08-03,2019-08,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,WorldRemit Corp.,GA,Web,Closed with explanation,Yes,336
+3138073,2019-01-30,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,"BANK OF AMERICA, NATIONAL ASSOCIATION",AZ,Web,Closed with explanation,Yes,159
+3039522,2018-10-07,2018-10,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Struggling to pay your loan,"GVA Holdings, LLC",NJ,Web,Closed with explanation,Yes,44
+3277489,2019-06-17,2019-06,Debt collection,debt_collection,Written notification about debt,"Diversified Consultants, Inc.",OH,Web,Closed with explanation,Yes,275
+3164809,2019-02-27,2019-02,Debt collection,debt_collection,Written notification about debt,NAVY FEDERAL CREDIT UNION,TN,Web,Closed with explanation,Yes,417
+3155248,2019-02-18,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,122
+3282768,2019-06-21,2019-06,Checking or savings account,bank_account,Managing an account,CAPITAL ONE FINANCIAL CORPORATION,FL,Web,Closed with explanation,Yes,404
+3411796,2019-10-20,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,65
+4522555,2021-07-07,2021-07,Debt collection,debt_collection,Attempts to collect debt not owed,Penn Credit Corporation,OH,Web,Closed with explanation,Yes,64
+3524798,2020-02-07,2020-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MD,Web,Closed with explanation,Yes,254
+3303193,2019-07-11,2019-07,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",NV,Web,Closed with explanation,Yes,188
+3270339,2019-06-10,2019-06,Mortgage,mortgage,Trouble during payment process,FIRST NATIONAL BANK OF OMAHA,KS,Web,Closed with explanation,Yes,154
+3281075,2019-06-20,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,"ACIMA CREDIT, LLC",VA,Web,Closed with explanation,Yes,188
+3299301,2019-07-08,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,World Omni Financial Corp.,FL,Web,Closed with explanation,Yes,381
+3297532,2019-07-06,2019-07,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Improper use of your report,EXCEL FINANCE COMPANY,LA,Web,Closed with explanation,Yes,99
+3233769,2019-05-06,2019-05,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,U.S. BANCORP,CT,Web,Closed with explanation,Yes,147
+3208243,2019-04-10,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,AES/PHEAA,PA,Web,Closed with explanation,Yes,345
+3284359,2019-06-23,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,NC,Web,Closed with non-monetary relief,Yes,253
+3167442,2019-03-02,2019-03,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,PRESTIGE FINANCIAL SERVICES INC,CA,Web,Closed with explanation,Yes,182
+3270999,2019-06-11,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NV,Web,Closed with explanation,Yes,90
+3379615,2019-09-19,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",OH,Web,Closed with explanation,Yes,56
+3310328,2019-07-18,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,198
+3175131,2019-03-10,2019-03,Mortgage,mortgage,Struggling to pay mortgage,"Peter T. Roach and Associates, P.C.",NY,Web,Closed with explanation,Yes,192
+3183740,2019-03-19,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NM,Web,Closed with explanation,Yes,408
+3176323,2019-03-11,2019-03,Mortgage,mortgage,Trouble during payment process,JPMORGAN CHASE & CO.,KY,Web,Closed with explanation,Yes,378
+3173920,2019-03-08,2019-03,Debt collection,debt_collection,Communication tactics,"Receivables Outsourcing, Inc.",OH,Web,Closed with explanation,Yes,380
+3191861,2019-03-26,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,"Associated Credit Services, Inc.",CA,Web,Closed with explanation,Yes,335
+3376444,2019-09-17,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NV,Web,Closed with non-monetary relief,Yes,12
+3177810,2019-03-13,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",U.S. BANCORP,KY,Web,Closed with explanation,Yes,244
+3300935,2019-07-09,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with non-monetary relief,Yes,113
+3186716,2019-03-21,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,"Ability Recovery Services, LLC",OH,Web,Closed with explanation,Yes,290
+3155765,2019-02-19,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,IL,Web,Closed with non-monetary relief,Yes,357
+3300280,2019-07-09,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with non-monetary relief,Yes,27
+3153758,2019-02-15,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a company's investigation into an existing issue,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,334
+3162394,2019-02-25,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,CAPITAL ONE FINANCIAL CORPORATION,TX,Web,Closed with non-monetary relief,Yes,65
+3564774,2020-03-12,2020-03,Debt collection,debt_collection,Communication tactics,FISERV INC.,CO,Web,Closed with explanation,Yes,1055
+3154536,2019-02-17,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Fees or interest,HSBC NORTH AMERICA HOLDINGS INC.,CA,Web,Closed with explanation,Yes,375
+3164947,2019-02-27,2019-02,Checking or savings account,bank_account,Managing an account,"BANK OF AMERICA, NATIONAL ASSOCIATION",CA,Web,Closed with monetary relief,Yes,155
+4529249,2021-07-09,2021-07,Debt collection,debt_collection,Communication tactics,"MCU Holdings, LLC",CA,Web,Closed with explanation,Yes,401
+3189734,2019-03-24,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Eagle Accounts Group, Inc.",TX,Web,Closed with explanation,Yes,156
+3153784,2019-02-15,2019-02,Debt collection,debt_collection,False statements or representation,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,84
+3164960,2019-02-27,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",SYNCHRONY FINANCIAL,MA,Web,Closed with explanation,Yes,335
+3153786,2019-02-15,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",IL,Web,Closed with non-monetary relief,Yes,301
+3256086,2019-05-29,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,355
+3175163,2019-03-10,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,"Convergent Resources, Inc.",MD,Web,Closed with explanation,Yes,112
+3185588,2019-03-20,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,Experian Information Solutions Inc.,NH,Web,Closed with non-monetary relief,Yes,162
+3299451,2019-07-08,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Perfection Collection,NC,Web,Closed with explanation,Yes,105
+3448839,2019-11-24,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,114
+3396745,2019-10-05,2019-10,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Problem with the payoff process at the end of the loan,"ENOVA INTERNATIONAL, INC.",MO,Web,Closed with explanation,Yes,64
+3449383,2019-11-25,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,95
+3155118,2019-02-18,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems","CITIBANK, N.A.",NY,Web,Closed with explanation,Yes,177
+3353851,2019-08-26,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"EQUIFAX, INC.",OK,Web,Closed with explanation,Yes,310
+3355605,2019-08-27,2019-08,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"BANK OF AMERICA, NATIONAL ASSOCIATION",NJ,Web,Closed with explanation,Yes,262
+3508794,2020-01-24,2020-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IN,Web,Closed with explanation,Yes,275
+3285456,2019-06-24,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,88
+3380615,2019-09-20,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",PA,Web,Closed with explanation,Yes,121
+3315401,2019-07-23,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,NC,Web,Closed with non-monetary relief,Yes,95
+3299131,2019-07-08,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,TN,Web,Closed with non-monetary relief,Yes,132
+3308494,2019-07-16,2019-07,Mortgage,mortgage,Trouble during payment process,"Shellpoint Partners, LLC",AL,Web,Closed with explanation,Yes,453
+3402445,2019-10-10,2019-10,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,CAPITAL ONE FINANCIAL CORPORATION,NJ,Web,Closed with explanation,Yes,266
+3090196,2018-12-03,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",PA,Web,Closed with non-monetary relief,Yes,166
+3614510,2020-04-20,2020-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,CAPITAL ONE FINANCIAL CORPORATION,AZ,Web,Closed with explanation,Yes,88
+3384728,2019-09-24,2019-09,Checking or savings account,bank_account,Managing an account,"BANK OF AMERICA, NATIONAL ASSOCIATION",CA,Web,Closed with monetary relief,Yes,423
+3293670,2019-07-02,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,158
+3300462,2019-07-09,2019-07,Mortgage,mortgage,Closing on a mortgage,"FIRST CITIZENS BANCSHARES, INC.",NC,Web,Closed with explanation,Yes,213
+3090277,2018-12-03,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",TX,Web,Closed with explanation,Yes,293
+3158619,2019-02-21,2019-02,Checking or savings account,bank_account,Opening an account,JPMORGAN CHASE & CO.,IL,Web,Closed with explanation,Yes,236
+3156234,2019-02-19,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",DC,Web,Closed with explanation,Yes,177
+3144332,2019-02-06,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,196
+3583742,2020-03-28,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with non-monetary relief,Yes,416
+3398613,2019-10-08,2019-10,Debt collection,debt_collection,Threatened to contact someone or share information improperly,"Direct Recovery Services, LLC",FL,Web,Closed with explanation,Yes,301
+3285594,2019-06-24,2019-06,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,343
+3183425,2019-03-18,2019-03,Vehicle loan or lease,vehicle_loan_or_lease,Getting a loan or lease,Santander Consumer USA Holdings Inc.,TX,Web,Closed with explanation,Yes,144
+3173279,2019-03-08,2019-03,Checking or savings account,bank_account,Problem caused by your funds being low,TCF NATIONAL BANK,TN,Web,Closed with explanation,Yes,232
+3157961,2019-02-20,2019-02,Checking or savings account,bank_account,Managing an account,ALLY FINANCIAL INC.,CA,Web,Closed with monetary relief,Yes,228
+3158024,2019-02-21,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",AMERICAN EXPRESS COMPANY,VA,Web,Closed with explanation,Yes,193
+3302491,2019-07-11,2019-07,Vehicle loan or lease,vehicle_loan_or_lease,Struggling to pay your loan,SHABANA MOTORS,TX,Web,Closed with explanation,Yes,146
+3300490,2019-07-09,2019-07,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,WELLS FARGO & COMPANY,AZ,Web,Closed with explanation,Yes,234
+3160392,2019-02-22,2019-02,Student loan,student_loan,Struggling to repay your loan,"Navient Solutions, LLC.",CA,Web,Closed with explanation,Yes,169
+3116099,2019-01-03,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",JPMORGAN CHASE & CO.,FL,Web,Closed with explanation,Yes,351
+3119854,2019-01-08,2019-01,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Can't contact lender or servicer,CAPITAL ONE FINANCIAL CORPORATION,CA,Web,Closed with non-monetary relief,Yes,162
+3153575,2019-02-15,2019-02,Mortgage,mortgage,Trouble during payment process,"HUNTINGTON NATIONAL BANK, THE",OH,Web,Closed with explanation,Yes,170
+3167094,2019-03-01,2019-03,Debt collection,debt_collection,Communication tactics,"The Outsource Group, Inc",TX,Web,Closed with explanation,Yes,22
+3418384,2019-10-26,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,180
+3142318,2019-02-04,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,166
+3147124,2019-02-08,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",GA,Web,Closed with non-monetary relief,Yes,66
+3164116,2019-02-27,2019-02,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,CA,Web,Closed with non-monetary relief,Yes,514
+3215440,2019-04-17,2019-04,Mortgage,mortgage,Trouble during payment process,HSBC NORTH AMERICA HOLDINGS INC.,OR,Web,Closed with explanation,Yes,190
+3281307,2019-06-20,2019-06,Vehicle loan or lease,vehicle_loan_or_lease,Problem with a credit reporting company's investigation into an existing problem,"General Motors Financial Company, Inc.",PA,Web,Closed with explanation,Yes,330
+3163895,2019-02-26,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,"Applied Data Finance, LLC",CA,Web,Closed with explanation,Yes,193
+3185348,2019-03-20,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,"CITIBANK, N.A.",MA,Web,Closed with explanation,Yes,94
+3183075,2019-03-18,2019-03,Debt collection,debt_collection,Communication tactics,"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",CO,Web,Closed with explanation,Yes,426
+3345487,2019-08-18,2019-08,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Struggling to pay your loan,"ONEMAIN FINANCIAL HOLDINGS, LLC.",IL,Web,Closed with non-monetary relief,Yes,331
+3144782,2019-02-06,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IN,Web,Closed with explanation,Yes,115
+3178874,2019-03-13,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Utah System of Higher Education,ID,Web,Closed with explanation,Yes,181
+3161438,2019-02-25,2019-02,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,ALLY FINANCIAL INC.,CA,Web,Closed with explanation,Yes,357
+3286614,2019-06-25,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,393
+3484499,2020-01-03,2020-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"NRA Group, LLC",MA,Web,Closed with explanation,Yes,216
+3302978,2019-07-11,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,MI,Web,Closed with explanation,Yes,237
+2547135,2017-05-02,2017-05,Debt collection,debt_collection,Attempts to collect debt not owed,PERLAND TITLE & ESCROW SERVICES CORP,VA,Web,Closed with explanation,Yes,123
+3276903,2019-06-17,2019-06,Checking or savings account,bank_account,Closing an account,JPMORGAN CHASE & CO.,VA,Web,Closed with explanation,Yes,511
+3584118,2020-03-28,2020-03,Debt collection,debt_collection,Attempts to collect debt not owed,"CCS Financial Services, Inc.",CT,Web,Closed with explanation,Yes,193
+3120415,2019-01-09,2019-01,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,JPMORGAN CHASE & CO.,WI,Web,Closed with explanation,Yes,291
+3143807,2019-02-05,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with customer service,Experian Information Solutions Inc.,NY,Web,Closed with explanation,Yes,317
+3155501,2019-02-18,2019-02,Debt collection,debt_collection,Communication tactics,"Frontline Asset Strategies, LLC",OK,Web,Closed with explanation,Yes,8
+3175015,2019-03-10,2019-03,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,ME,Web,Closed with explanation,Yes,231
+3164941,2019-02-27,2019-02,Debt collection,debt_collection,Written notification about debt,Credit Corp Solutions Inc.,OH,Web,Closed with explanation,Yes,218
+3860381,2020-09-22,2020-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,OH,Web,Closed with explanation,Yes,10
+3276779,2019-06-16,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",AL,Web,Closed with explanation,Yes,243
+3174636,2019-03-09,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MD,Web,Closed with explanation,Yes,116
+3134681,2019-01-27,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,BARCLAYS BANK DELAWARE,CA,Web,Closed with non-monetary relief,Yes,109
+3137661,2019-01-30,2019-01,Checking or savings account,bank_account,Problem with a lender or other company charging your account,"BANK OF AMERICA, NATIONAL ASSOCIATION",CT,Web,Closed with explanation,Yes,490
+3554998,2020-03-05,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Bridgecrest Acceptance Corporation,IL,Web,Closed with explanation,Yes,429
+3237059,2019-05-09,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,166
+3345801,2019-08-19,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IN,Web,Closed with explanation,Yes,182
+3188501,2019-03-22,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,"CCS Financial Services, Inc.",PA,Web,Closed with explanation,Yes,261
+3278835,2019-06-18,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",CAPITAL ONE FINANCIAL CORPORATION,CA,Web,Closed with explanation,Yes,197
+3139040,2019-01-31,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,260
+3280151,2019-06-19,2019-06,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,FL,Web,Closed with explanation,Yes,126
+3555168,2020-03-05,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,AL,Web,Closed with non-monetary relief,Yes,116
+3103363,2018-12-18,2018-12,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,KY,Web,Closed with monetary relief,Yes,718
+3391482,2019-10-01,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,"Conn's, Inc.",TX,Web,Closed with explanation,Yes,204
+3303312,2019-07-11,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",PA,Web,Closed with explanation,Yes,77
+3101414,2018-12-16,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,186
+3168794,2019-03-04,2019-03,Mortgage,mortgage,Struggling to pay mortgage,"Fay Servicing, LLC",FL,Web,Closed with explanation,Yes,400
+3302633,2019-07-11,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,137
+3184038,2019-03-19,2019-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,"CCS Financial Services, Inc.",OH,Web,Closed with explanation,Yes,408
+3289216,2019-06-27,2019-06,"Money transfer, virtual currency, or money service",money_transfer,Confusing or missing disclosures,"Paypal Holdings, Inc",WA,Web,Closed with explanation,Yes,373
+3132608,2019-01-24,2019-01,Checking or savings account,bank_account,Managing an account,NAVY FEDERAL CREDIT UNION,GA,Web,Closed with explanation,Yes,297
+3178945,2019-03-13,2019-03,Debt collection,debt_collection,Written notification about debt,ENCORE CAPITAL GROUP INC.,FL,Web,Closed with explanation,Yes,231
+3171539,2019-03-06,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers","CITIBANK, N.A.",IL,Web,Closed with explanation,Yes,129
+3175649,2019-03-11,2019-03,Debt collection,debt_collection,False statements or representation,"American Profit Recovery, Inc., Marlborough, MA Branch",IN,Web,Closed with explanation,Yes,143
+3301619,2019-07-10,2019-07,Debt collection,debt_collection,Took or threatened to take negative or legal action,"Jim Bottin Enterprises, Inc",FL,Web,Closed with explanation,Yes,476
+3180105,2019-03-14,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NM,Web,Closed with explanation,Yes,21
+3178960,2019-03-13,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,WELLS FARGO & COMPANY,NV,Web,Closed with monetary relief,Yes,245
+3182590,2019-03-17,2019-03,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,WELLS FARGO & COMPANY,TX,Web,Closed with non-monetary relief,Yes,140
+3299957,2019-07-09,2019-07,Debt collection,debt_collection,Written notification about debt,"Security Credit Services, LLC",NY,Web,Closed with explanation,Yes,127
+2971266,2018-07-24,2018-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",TX,Web,Closed with non-monetary relief,Yes,257
+3158266,2019-02-20,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NC,Web,Closed with non-monetary relief,Yes,43
+3289125,2019-06-27,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,College Loan Corporation,TX,Web,Closed with explanation,Yes,166
+3194550,2019-03-28,2019-03,Checking or savings account,bank_account,Closing an account,WELLS FARGO & COMPANY,NM,Web,Closed with explanation,Yes,193
+3385614,2019-09-25,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,IL,Web,Closed with explanation,Yes,131
+3168081,2019-03-03,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,WELLS FARGO & COMPANY,CA,Web,Closed with explanation,Yes,250
+3286260,2019-06-25,2019-06,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Loan payment wasn't credited to your account,TMX Finance LLC,GA,Web,Closed with explanation,Yes,296
+3297534,2019-07-06,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NC,Web,Closed with explanation,Yes,154
+3289650,2019-06-28,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",SYNCHRONY FINANCIAL,CA,Web,Closed with explanation,Yes,279
+3305864,2019-07-14,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"CITIBANK, N.A.",CA,Web,Closed with explanation,Yes,461
+3195952,2019-03-29,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,AMERICAN HONDA FINANCE CORP,PA,Web,Closed with explanation,Yes,283
+3300937,2019-07-09,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,348
+3205007,2019-04-08,2019-04,Debt collection,debt_collection,Written notification about debt,FirstPoint Collection Resources,NC,Web,Closed with explanation,Yes,108
+3175477,2019-03-10,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,HI,Web,Closed with explanation,Yes,243
+3147800,2019-02-09,2019-02,Debt collection,debt_collection,Written notification about debt,"Amsher Collection Services, Inc.",GA,Web,Closed with explanation,Yes,830
+3172963,2019-03-07,2019-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,HSBC NORTH AMERICA HOLDINGS INC.,IN,Web,Closed with explanation,Yes,142
+3279658,2019-06-19,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Unexpected or other fees,U.S. BANCORP,KS,Web,Closed with explanation,Yes,324
+3145055,2019-02-06,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,CAPITAL ONE FINANCIAL CORPORATION,NJ,Web,Closed with explanation,Yes,77
+3169256,2019-03-04,2019-03,Debt collection,debt_collection,Communication tactics,"Helvey & Associates, Inc., Warsaw, IN Branch",FL,Web,Closed with explanation,Yes,155
+3156923,2019-02-20,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,106
+3299827,2019-07-09,2019-07,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,TransferWise Ltd,OR,Web,Closed with explanation,Yes,308
+3404164,2019-10-13,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",PA,Web,Closed with explanation,Yes,222
+3180316,2019-03-15,2019-03,Checking or savings account,bank_account,Closing an account,JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,158
+3349374,2019-08-21,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,788
+3297075,2019-07-05,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NJ,Web,Closed with explanation,Yes,356
+3277786,2019-06-17,2019-06,Mortgage,mortgage,Trouble during payment process,Ditech Financial LLC,CA,Web,Closed with explanation,Yes,193
+3332166,2019-08-06,2019-08,Debt collection,debt_collection,Written notification about debt,ENCORE CAPITAL GROUP INC.,AZ,Web,Closed with explanation,Yes,276
+3697119,2020-06-13,2020-06,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,SYNCHRONY FINANCIAL,CA,Web,Closed with monetary relief,Yes,186
+3252440,2019-05-24,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",MS,Web,Closed with explanation,Yes,124
+3300510,2019-07-09,2019-07,Debt collection,debt_collection,Threatened to contact someone or share information improperly,SYNCHRONY FINANCIAL,KS,Web,Closed with explanation,Yes,52
+3608865,2020-04-16,2020-04,Debt collection,debt_collection,Attempts to collect debt not owed,JPMORGAN CHASE & CO.,FL,Web,Closed with explanation,Yes,44
+3272354,2019-06-12,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Fees or interest,"CITIBANK, N.A.",MI,Web,Closed with explanation,Yes,233
+3599890,2020-04-09,2020-04,Debt collection,debt_collection,Took or threatened to take negative or legal action,Phoenix Financial Services LLC,VA,Web,Closed with explanation,Yes,112
+3300062,2019-07-09,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Struggling to pay your bill,SYNCHRONY FINANCIAL,WI,Web,Closed with monetary relief,Yes,523
+3165006,2019-02-27,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,102
+3437113,2019-11-13,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,GA,Web,Closed with explanation,Yes,43
+3363569,2019-09-05,2019-09,Student loan,student_loan,Dealing with your lender or servicer,HIGHER EDUCATION STUDENT ASSISTANCE AUTHORITY (HESAA),NC,Web,Closed with explanation,Yes,202
+3110643,2018-12-27,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,91
+3128194,2019-01-18,2019-01,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,"CITIZENS FINANCIAL GROUP, INC.",MI,Web,Closed with explanation,Yes,199
+2035377,2016-07-28,2016-07,Debt collection,debt_collection,Improper contact or sharing of info,Midwest Recovery Systems,FL,Web,Closed with explanation,Yes,95
+4446298,2021-06-09,2021-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",TN,Web,Closed with explanation,Yes,135
+3323702,2019-07-30,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,GA,Web,Closed with non-monetary relief,Yes,135
+3129583,2019-01-21,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,129
+3563999,2020-03-12,2020-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,Law Office of Harris & Zide,CA,Web,Closed with explanation,Yes,57
+3377540,2019-09-17,2019-09,Debt collection,debt_collection,Attempts to collect debt not owed,"Capital Accounts, LLC",VA,Web,Closed with explanation,Yes,215
+3293090,2019-07-01,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,DISCOVER BANK,MO,Web,Closed with explanation,Yes,706
+3121716,2019-01-10,2019-01,Debt collection,debt_collection,Attempts to collect debt not owed,Brown’s New Credit Bureau Inc.,NC,Web,Closed with explanation,No,837
+3312057,2019-07-19,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",OH,Web,Closed with explanation,Yes,107
+1991793,2016-06-29,2016-06,Debt collection,debt_collection,Taking/threatening an illegal action,"Financial Credit Service, Inc.",TX,Web,Closed with explanation,No,357
+3319936,2019-07-26,2019-07,Debt collection,debt_collection,False statements or representation,"STERLING JEWELERS, INC.",IL,Web,Closed with explanation,Yes,121
+3416422,2019-10-24,2019-10,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Received a loan you didn't apply for,Flandreau Santee Sioux Tribe,CA,Web,Closed with explanation,Yes,70
+3119160,2019-01-08,2019-01,Mortgage,mortgage,Struggling to pay mortgage,WELLS FARGO & COMPANY,CA,Web,Closed with explanation,Yes,206
+3451669,2019-11-26,2019-11,Debt collection,debt_collection,Attempts to collect debt not owed,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,468
+3249864,2019-05-22,2019-05,Debt collection,debt_collection,Attempts to collect debt not owed,"Commonwealth Financial Systems, Inc.",FL,Web,Closed with explanation,Yes,32
+3119349,2019-01-08,2019-01,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,IA,Web,Closed with explanation,Yes,555
+3436936,2019-11-13,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,PA,Web,Closed with explanation,Yes,26
+3162600,2019-02-25,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,JPMORGAN CHASE & CO.,TX,Web,Closed with explanation,Yes,269
+3118720,2019-01-07,2019-01,Checking or savings account,bank_account,Closing an account,NAVY FEDERAL CREDIT UNION,FL,Web,Closed with explanation,Yes,201
+3326909,2019-08-02,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,61
+3168749,2019-03-04,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,"Merchants and Professional Bureau, Inc.",TX,Web,Closed with explanation,Yes,328
+3115036,2019-01-02,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,188
+3160754,2019-02-23,2019-02,Checking or savings account,bank_account,Problem with a lender or other company charging your account,"CITIBANK, N.A.",NY,Web,Closed with explanation,Yes,322
+3544175,2020-02-25,2020-02,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,"BANK OF AMERICA, NATIONAL ASSOCIATION",DE,Web,Closed with monetary relief,Yes,127
+3233043,2019-05-05,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CO,Web,Closed with explanation,Yes,333
+3555441,2020-03-05,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",AR,Web,Closed with explanation,Yes,121
+3367701,2019-09-09,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,107
+2284673,2017-01-11,2017-01,Debt collection,debt_collection,Taking/threatening an illegal action,"The Allen Daniel Associates, Inc.",NY,Web,Closed with explanation,Yes,405
+3305386,2019-07-13,2019-07,Checking or savings account,bank_account,Managing an account,WELLS FARGO & COMPANY,FL,Web,Closed with explanation,Yes,239
+1661358,2015-11-18,2015-11,Credit card,credit_card_or_prepaid_card,Closing/Cancelling account,SYNCHRONY FINANCIAL,FL,Web,Closed with explanation,Yes,427
+3169895,2019-03-05,2019-03,Debt collection,debt_collection,Took or threatened to take negative or legal action,"MVBA, L.L.C.",TX,Web,Closed with explanation,Yes,288
+1301896,2015-03-26,2015-03,Debt collection,debt_collection,Cont'd attempts collect debt not owed,"Credit Protection Association, L.P.",TX,Web,Closed with non-monetary relief,Yes,79
+3124468,2019-01-14,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",JPMORGAN CHASE & CO.,MD,Web,Closed with monetary relief,Yes,247
+3142928,2019-02-05,2019-02,Debt collection,debt_collection,Threatened to contact someone or share information improperly,FIFTH THIRD FINANCIAL CORPORATION,OH,Web,Closed with non-monetary relief,Yes,107
+3345360,2019-08-17,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",VA,Web,Closed with explanation,Yes,81
+3500069,2020-01-17,2020-01,"Money transfer, virtual currency, or money service",money_transfer,Unauthorized transactions or other transaction problem,"Paypal Holdings, Inc",,Web,Closed with explanation,Yes,170
+3158108,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Avant Credit Corporation,FL,Web,Closed with explanation,Yes,370
+3123038,2019-01-12,2019-01,Debt collection,debt_collection,Attempts to collect debt not owed,ERC,OH,Web,Closed with explanation,Yes,229
+2873736,2018-04-12,2018-04,Debt collection,debt_collection,Written notification about debt,Clark County Collection Service,NV,Web,Closed with explanation,Yes,357
+3109150,2018-12-25,2018-12,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"BANK OF AMERICA, NATIONAL ASSOCIATION",VA,Web,Closed with explanation,Yes,263
+3211917,2019-04-15,2019-04,Debt collection,debt_collection,Took or threatened to take negative or legal action,Resurgent Capital Services L.P.,DC,Web,Closed with explanation,Yes,106
+3107126,2018-12-21,2018-12,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Problem with the payoff process at the end of the loan,PNC Bank N.A.,FL,Web,Closed with explanation,Yes,390
+3160289,2019-02-22,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,SYNCHRONY FINANCIAL,MI,Web,Closed with explanation,Yes,280
+4653647,2021-08-23,2021-08,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",BARCLAYS BANK DELAWARE,IL,Web,Closed with explanation,Yes,65
+3403523,2019-10-11,2019-10,Mortgage,mortgage,Struggling to pay mortgage,WELLS FARGO & COMPANY,FL,Web,Closed with explanation,Yes,121
+3288741,2019-06-27,2019-06,Checking or savings account,bank_account,Managing an account,NAVY FEDERAL CREDIT UNION,GA,Web,Closed with explanation,Yes,102
+3335008,2019-08-09,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Riverwalk Financial Corporation,MA,Web,Closed with explanation,Yes,118
+2857272,2018-03-28,2018-03,Debt collection,debt_collection,Written notification about debt,Collection Bureau of America Ltd.,IL,Web,Closed with explanation,No,386
+3339133,2019-08-13,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CO,Web,Closed with explanation,Yes,141
+3290707,2019-06-28,2019-06,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Charged fees or interest you didn't expect,"GVA Holdings, LLC",OK,Web,Closed with explanation,Yes,103
+3393915,2019-10-03,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,42
+3113805,2019-01-01,2019-01,Debt collection,debt_collection,Attempts to collect debt not owed,"Diversified Consultants, Inc.",OH,Web,Closed with explanation,Yes,349
+2976131,2018-07-29,2018-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Berco Finance Corp,OR,Web,Closed with explanation,Yes,180
+3657594,2020-05-18,2020-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,77
+3121450,2019-01-10,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,189
+3172730,2019-03-07,2019-03,Checking or savings account,bank_account,Problem with a lender or other company charging your account,WELLS FARGO & COMPANY,FL,Web,Closed with explanation,Yes,114
+3429247,2019-11-05,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",TX,Web,Closed with explanation,Yes,108
+3342924,2019-08-16,2019-08,Checking or savings account,bank_account,Problem with a lender or other company charging your account,PNC Bank N.A.,NJ,Web,Closed with explanation,Yes,309
+3178752,2019-03-13,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,AZ,Web,Closed with explanation,Yes,205
+3091690,2018-12-05,2018-12,Checking or savings account,bank_account,Problem with a lender or other company charging your account,NAVY FEDERAL CREDIT UNION,GA,Web,Closed with explanation,Yes,209
+3157573,2019-02-20,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,123
+2830855,2018-03-02,2018-03,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,"Auto Advantage Finance, LLC",OK,Web,Closed with explanation,Yes,144
+3349442,2019-08-21,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,788
+3174317,2019-03-09,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,215
+3173241,2019-03-08,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,OH,Web,Closed with explanation,Yes,150
+3142153,2019-02-04,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"BANK OF AMERICA, NATIONAL ASSOCIATION",IL,Web,Closed with monetary relief,Yes,253
+3292945,2019-07-01,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,WELLS FARGO & COMPANY,CA,Web,Closed with explanation,Yes,198
+3131060,2019-01-23,2019-01,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,NAVY FEDERAL CREDIT UNION,TX,Web,Closed with explanation,Yes,147
+3607468,2020-04-15,2020-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,AR,Web,Closed with explanation,Yes,70
+3318234,2019-07-25,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"CITIBANK, N.A.",CO,Web,Closed with explanation,Yes,133
+3126885,2019-01-17,2019-01,Mortgage,mortgage,Struggling to pay mortgage,Ocwen Financial Corporation,CA,Web,Closed with explanation,Yes,343
+3288971,2019-06-27,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with non-monetary relief,Yes,68
+3447445,2019-11-22,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,57
+3338177,2019-08-12,2019-08,Debt collection,debt_collection,Written notification about debt,Merchants' Credit Guide Company,IL,Web,Closed with explanation,Yes,224
+3189223,2019-03-24,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,MS,Web,Closed with explanation,Yes,101
+3646409,2020-05-11,2020-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",PA,Web,Closed with explanation,Yes,31
+3397904,2019-10-07,2019-10,Checking or savings account,bank_account,Closing an account,BBVA FINANCIAL CORPORATION,FL,Web,Closed with explanation,Yes,127
+3122178,2019-01-11,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,AL,Web,Closed with explanation,Yes,74
+3108219,2018-12-23,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",MA,Web,Closed with explanation,Yes,104
+3309770,2019-07-17,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,PA,Web,Closed with explanation,Yes,146
+3176296,2019-03-11,2019-03,Checking or savings account,bank_account,Managing an account,WELLS FARGO & COMPANY,DC,Web,Closed with explanation,Yes,348
+3161792,2019-02-24,2019-02,"Money transfer, virtual currency, or money service",money_transfer,"Managing, opening, or closing your mobile wallet account","Paypal Holdings, Inc",MD,Web,Closed with explanation,Yes,182
+3301608,2019-07-10,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Struggling to pay your bill,"CITIBANK, N.A.",OH,Web,Closed with explanation,Yes,231
+3145138,2019-02-07,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,PENTAGON FEDERAL CREDIT UNION,NE,Web,Closed with explanation,Yes,354
+3189411,2019-03-25,2019-03,Checking or savings account,bank_account,Managing an account,"CHARLES SCHWAB CORPORATION, THE",WI,Web,Closed with non-monetary relief,Yes,166
+3414294,2019-10-22,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,SC,Web,Closed with explanation,Yes,80
+3268132,2019-06-08,2019-06,Mortgage,mortgage,Trouble during payment process,Ocwen Financial Corporation,TN,Web,Closed with explanation,Yes,608
+3229893,2019-05-02,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,GA,Web,Closed with explanation,Yes,130
+2966554,2018-07-18,2018-07,Debt collection,debt_collection,Threatened to contact someone or share information improperly,"Rubin & Rothman, LLC",NY,Web,Closed with explanation,Yes,178
+3176132,2019-03-11,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,59
+3400262,2019-10-09,2019-10,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Credit limit changed,SYNCHRONY FINANCIAL,MI,Web,Closed with explanation,Yes,234
+3288162,2019-06-26,2019-06,Checking or savings account,bank_account,Problem with a lender or other company charging your account,SYNCHRONY FINANCIAL,GA,Web,Closed with explanation,Yes,223
+3251348,2019-05-24,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,GA,Web,Closed with explanation,Yes,93
+3168999,2019-03-04,2019-03,Checking or savings account,bank_account,Managing an account,WELLS FARGO & COMPANY,PA,Web,Closed with explanation,Yes,188
+3291005,2019-06-29,2019-06,Debt collection,debt_collection,Written notification about debt,Alliance Data Card Services,CA,Web,Closed with non-monetary relief,Yes,129
+3527824,2020-02-11,2020-02,Checking or savings account,bank_account,Closing an account,HSBC NORTH AMERICA HOLDINGS INC.,TX,Web,Closed with explanation,Yes,267
+3336514,2019-08-10,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,90
+3377872,2019-09-18,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,978
+3346601,2019-08-19,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,SYNCHRONY FINANCIAL,CA,Web,Closed with monetary relief,Yes,297
+3318343,2019-07-25,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",AL,Web,Closed with explanation,Yes,67
+3523880,2020-02-07,2020-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IL,Web,Closed with explanation,Yes,289
+3170969,2019-03-06,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,11
+3194699,2019-03-28,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",SYNCHRONY FINANCIAL,OR,Web,Closed with explanation,Yes,151
+3079224,2018-11-20,2018-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",CO,Web,Closed with explanation,Yes,105
+3479181,2019-12-28,2019-12,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,401
+3108601,2018-12-24,2018-12,"Money transfer, virtual currency, or money service",money_transfer,Money was not available when promised,MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,OH,Web,Closed with explanation,Yes,458
+3107794,2018-12-22,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",GA,Web,Closed with non-monetary relief,Yes,251
+3146454,2019-02-08,2019-02,Checking or savings account,bank_account,Closing an account,"WEBSTER BANK, NATIONAL ASSOCIATION",MA,Web,Closed with monetary relief,Yes,136
+3288281,2019-06-26,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"CITIBANK, N.A.",MN,Web,Closed with monetary relief,Yes,194
+3298736,2019-07-08,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,188
+3307072,2019-07-15,2019-07,Debt collection,debt_collection,Written notification about debt,"I.Q. DATA INTERNATIONAL, INC.",CO,Web,Closed with explanation,Yes,171
+3432872,2019-11-08,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,PA,Web,Closed with non-monetary relief,Yes,169
+3165010,2019-02-27,2019-02,Mortgage,mortgage,Struggling to pay mortgage,"Fay Servicing, LLC",NJ,Web,Closed with explanation,Yes,176
+3421107,2019-10-29,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,"BANK OF AMERICA, NATIONAL ASSOCIATION",GA,Web,Closed with explanation,Yes,136
+3140770,2019-02-02,2019-02,Debt collection,debt_collection,Took or threatened to take negative or legal action,Columbia Recovery Group LLC,FL,Web,Untimely response,No,329
+3255079,2019-05-29,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,355
+3560186,2020-03-09,2020-03,Debt collection,debt_collection,Attempts to collect debt not owed,Creditors Bureau Associates,GA,Web,Closed with non-monetary relief,Yes,39
+3311723,2019-07-19,2019-07,Debt collection,debt_collection,False statements or representation,"Northern Trust Company, The",CA,Web,Closed with explanation,Yes,220
+3112156,2018-12-28,2018-12,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,WELLS FARGO & COMPANY,CT,Web,Closed with explanation,Yes,274
+3357981,2019-08-29,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,460
+3201254,2019-04-05,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,LA,Web,Closed with explanation,Yes,107
+3357617,2019-08-29,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"CITIBANK, N.A.",TX,Web,Closed with explanation,Yes,338
+3157882,2019-02-20,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers","CITIBANK, N.A.",CA,Web,Closed with explanation,Yes,180
+3255191,2019-05-28,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",TX,Web,Closed with non-monetary relief,Yes,153
+3293555,2019-07-02,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,JPMORGAN CHASE & CO.,,Web,Closed with explanation,Yes,226
+3343003,2019-08-16,2019-08,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,NJ,Web,Closed with explanation,Yes,105
+3320659,2019-07-27,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NM,Web,Closed with explanation,Yes,24
+3304882,2019-07-12,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using the card,AMERICAN EXPRESS COMPANY,CO,Web,Closed with monetary relief,Yes,234
+3139220,2019-01-31,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,TN,Web,Closed with explanation,Yes,125
+2888598,2018-04-26,2018-04,Mortgage,mortgage,Trouble during payment process,RoundPoint Mortgage Servicing Corporation,MA,Web,Closed with explanation,Yes,411
+3176700,2019-03-12,2019-03,Mortgage,mortgage,Closing on a mortgage,"HomeTown Lenders, LLC",AL,Web,Closed with non-monetary relief,Yes,179
+3452819,2019-11-27,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Bridgecrest Acceptance Corporation,AZ,Web,Closed with explanation,Yes,99
+3100722,2018-12-14,2018-12,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,MN,Web,Closed with explanation,Yes,102
+3553950,2020-03-04,2020-03,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using the card,CAPITAL ONE FINANCIAL CORPORATION,FL,Web,Closed with explanation,Yes,152
+3222438,2019-04-25,2019-04,Debt collection,debt_collection,Threatened to contact someone or share information improperly,"SUNRISE CREDIT SERVICES, INC",MI,Web,Closed with explanation,Yes,28
+3288245,2019-06-26,2019-06,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,AMERISAVE MORTGAGE CORPORATION,TX,Web,Closed with monetary relief,Yes,759
+3160848,2019-02-23,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,TOYOTA MOTOR CREDIT CORPORATION,NJ,Web,Closed with explanation,Yes,473
+3159072,2019-02-21,2019-02,"Money transfer, virtual currency, or money service",money_transfer,Money was not available when promised,"Coinbase, Inc.",CA,Web,Closed with explanation,Yes,94
+2200388,2016-11-08,2016-11,Debt collection,debt_collection,Cont'd attempts collect debt not owed,Midwest Recovery Systems,MD,Web,Closed with explanation,No,184
+3115978,2019-01-03,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,JPMORGAN CHASE & CO.,CA,Web,Closed with monetary relief,Yes,349
+3257691,2019-05-30,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",AL,Web,Closed with explanation,Yes,127
+3157297,2019-02-19,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,WELLS FARGO & COMPANY,HI,Web,Closed with explanation,Yes,132
+3172531,2019-03-07,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NV,Web,Closed with explanation,Yes,20
+3286054,2019-06-25,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,48
+3266359,2019-06-06,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,78
+3166002,2019-02-28,2019-02,Mortgage,mortgage,Closing on a mortgage,Finance of America Mortgage LLC,CA,Web,Closed with explanation,Yes,452
+3395075,2019-10-03,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,Santander Consumer USA Holdings Inc.,FL,Web,Closed with explanation,Yes,77
+3169286,2019-03-04,2019-03,Checking or savings account,bank_account,Managing an account,VALLEY NATIONAL BANCORP,NJ,Web,Closed with explanation,Yes,313
+3367436,2019-09-08,2019-09,Debt collection,debt_collection,Attempts to collect debt not owed,"National Credit Adjusters, LLC",TX,Web,Closed with explanation,Yes,212
+3378806,2019-09-18,2019-09,Debt collection,debt_collection,Attempts to collect debt not owed,"Herbert P. Sears Co., Inc.",CA,Web,Closed with explanation,Yes,668
+3258870,2019-05-30,2019-05,Vehicle loan or lease,vehicle_loan_or_lease,Struggling to pay your loan,Bridgecrest Acceptance Corporation,FL,Web,Closed with explanation,Yes,289
+3347834,2019-08-20,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",IL,Web,Closed with explanation,Yes,71
+3170037,2019-03-05,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Checkr, Inc",AZ,Web,Closed with explanation,Yes,403
+3368789,2019-09-09,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,BARCLAYS BANK DELAWARE,NY,Web,Closed with explanation,Yes,186
+3156274,2019-02-19,2019-02,Mortgage,mortgage,Trouble during payment process,WELLS FARGO & COMPANY,CT,Web,Closed with explanation,Yes,356
+1305453,2015-03-27,2015-03,Bank account or service,bank_account,"Account opening, closing, or management","CITIBANK, N.A.",PA,Web,Closed with explanation,Yes,319
+4400597,2021-05-24,2021-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,241
+3599642,2020-04-09,2020-04,Vehicle loan or lease,vehicle_loan_or_lease,Struggling to pay your loan,Exeter Finance Corp.,WA,Web,Closed with explanation,Yes,286
+3231964,2019-05-03,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TX,Web,Closed with explanation,Yes,296
+3095946,2018-12-10,2018-12,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Problem when making payments,"Opportunity Financial, LLC",CA,Web,Closed with explanation,Yes,327
+3554975,2020-03-05,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,53
+3166312,2019-03-01,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TN,Web,Closed with non-monetary relief,Yes,160
+3348164,2019-08-21,2019-08,Mortgage,mortgage,Trouble during payment process,"SELECT PORTFOLIO SERVICING, INC.",NC,Web,Closed with explanation,Yes,419
+3344931,2019-08-19,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,SC,Web,Closed with explanation,Yes,208
+3377077,2019-09-17,2019-09,Checking or savings account,bank_account,Managing an account,"CITIBANK, N.A.",NY,Web,Closed with explanation,Yes,198
+3413751,2019-10-22,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,CA,Web,Closed with non-monetary relief,Yes,21
+3401079,2019-10-10,2019-10,Checking or savings account,bank_account,Managing an account,"BANK OF AMERICA, NATIONAL ASSOCIATION",CA,Web,Closed with monetary relief,Yes,270
+3132668,2019-01-24,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,U.S. BANCORP,NY,Web,Closed with non-monetary relief,Yes,87
+3161669,2019-02-24,2019-02,Debt collection,debt_collection,Written notification about debt,"Retrieval-Masters Creditors Bureau, Inc., Elmsford, NY Branch",NJ,Web,Closed with explanation,Yes,281
+3147227,2019-02-09,2019-02,Mortgage,mortgage,Trouble during payment process,"FLAGSTAR BANK, FSB",CA,Web,Closed with explanation,Yes,230
+3479307,2019-12-28,2019-12,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,SYNCHRONY FINANCIAL,FL,Web,Closed with explanation,Yes,157
+3824503,2020-09-01,2020-09,Student loan,student_loan,Dealing with your lender or servicer,SLM CORPORATION,PA,Web,Closed with explanation,Yes,44
+3397989,2019-10-07,2019-10,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,SYNCHRONY FINANCIAL,FL,Web,Closed with explanation,Yes,206
+3322548,2019-07-29,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,91
+3328793,2019-08-05,2019-08,Student loan,student_loan,Dealing with your lender or servicer,Equitable Acceptance Corp,OR,Web,Closed with explanation,Yes,148
+2733578,2017-11-20,2017-11,Mortgage,mortgage,Closing on a mortgage,"FIRST CITIZENS BANCSHARES, INC.",CA,Web,Closed with non-monetary relief,Yes,411
+3180723,2019-03-15,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",WELLS FARGO & COMPANY,NE,Web,Closed with monetary relief,No,90
+3130048,2019-01-22,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,SYNCHRONY FINANCIAL,GA,Web,Closed with explanation,Yes,259
+3163026,2019-02-26,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,ERC,GA,Web,Closed with explanation,Yes,116
+3112071,2018-12-28,2018-12,"Money transfer, virtual currency, or money service",money_transfer,Problem with customer service,MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,NY,Web,Closed with explanation,Yes,318
+3077855,2018-11-19,2018-11,Debt collection,debt_collection,Attempts to collect debt not owed,World Acceptance Corporation,GA,Web,Closed with explanation,Yes,62
+3150693,2019-02-13,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NJ,Web,Closed with explanation,Yes,312
+2302591,2017-01-21,2017-01,Student loan,student_loan,Dealing with my lender or servicer,"Navient Solutions, LLC.",NY,Web,Closed with explanation,Yes,293
+3258055,2019-05-30,2019-05,Debt collection,debt_collection,Communication tactics,Exeter Finance Corp.,NC,Web,Closed with explanation,Yes,53
+3111125,2018-12-27,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a company's investigation into an existing issue,First Data Corporation,ID,Web,Closed with explanation,Yes,292
+3158860,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,111
+3290742,2019-06-28,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,"Commonwealth Financial Systems, Inc.",MO,Web,Closed with explanation,Yes,81
+3157235,2019-02-21,2019-02,Debt collection,debt_collection,Communication tactics,Hillcrest Davidson & Assoc,OH,Web,Closed with explanation,Yes,304
+3488032,2020-01-07,2020-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,191
+3352517,2019-08-25,2019-08,Checking or savings account,bank_account,Managing an account,PNC Bank N.A.,NY,Web,Closed with explanation,Yes,206
+3104952,2018-12-19,2018-12,Mortgage,mortgage,Trouble during payment process,Ditech Financial LLC,VA,Web,Closed with explanation,Yes,371
+3158083,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,311
+3169969,2019-03-05,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,Alliance Data Card Services,MS,Web,Closed with non-monetary relief,Yes,233
+3171412,2019-03-06,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MA,Web,Closed with explanation,Yes,230
+3169130,2019-03-04,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,AZ,Web,Closed with non-monetary relief,Yes,121
+3130488,2019-01-22,2019-01,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",PA,Web,Closed with explanation,Yes,292
+3680853,2020-06-03,2020-06,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,"Was approved for a loan, but didn't receive the money",PNC Bank N.A.,NJ,Web,Closed with explanation,Yes,51
+3148346,2019-02-10,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Unexpected or other fees,CHECK INTO CASH INC.,CA,Web,Closed with explanation,Yes,295
+3199401,2019-04-02,2019-04,Mortgage,mortgage,Incorrect information on your report,"Shellpoint Partners, LLC",MA,Web,Closed with explanation,Yes,223
+3133955,2019-01-26,2019-01,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,JPMORGAN CHASE & CO.,NY,Web,Closed with explanation,Yes,108
+3262833,2019-06-03,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,JPMORGAN CHASE & CO.,NC,Web,Closed with non-monetary relief,Yes,131
+3101752,2018-12-16,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,"EQUIFAX, INC.",MD,Web,Closed with explanation,Yes,399
+2550117,2017-06-16,2017-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",CO,Web,Closed with explanation,Yes,199
+3321191,2019-07-27,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,153
+3251323,2019-05-24,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,,Web,Closed with explanation,Yes,321
+3253454,2019-05-25,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,GA,Web,Closed with explanation,Yes,186
+3168056,2019-03-03,2019-03,Debt collection,debt_collection,Written notification about debt,"Credit Protection Association, L.P.",FL,Web,Closed with explanation,Yes,162
+3105081,2018-12-19,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NY,Web,Closed with explanation,Yes,114
+3099208,2018-12-13,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,177
+3161250,2019-02-24,2019-02,Debt collection,debt_collection,Written notification about debt,"CITIBANK, N.A.",MA,Web,Closed with explanation,Yes,215
+3161864,2019-02-25,2019-02,Mortgage,mortgage,Trouble during payment process,FIFTH THIRD FINANCIAL CORPORATION,CA,Web,Closed with non-monetary relief,Yes,366
+3160619,2019-02-23,2019-02,Debt collection,debt_collection,Written notification about debt,ENCORE CAPITAL GROUP INC.,VA,Web,Closed with explanation,Yes,145
+3283748,2019-06-22,2019-06,Vehicle loan or lease,vehicle_loan_or_lease,Struggling to pay your loan,NAVY FEDERAL CREDIT UNION,CA,Web,Closed with explanation,Yes,283
+3173291,2019-03-08,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,"Complete Credit Solutions, Inc.",IN,Web,Closed with explanation,Yes,327
+3173431,2019-03-08,2019-03,Debt collection,debt_collection,Written notification about debt,"Complete Credit Solutions, Inc.",TX,Web,Closed with explanation,Yes,166
+3173082,2019-03-07,2019-03,Mortgage,mortgage,Trouble during payment process,BMO HARRIS BANK NATIONAL ASSOCIATION,WI,Web,Closed with explanation,Yes,451
+2472162,2017-05-01,2017-05,Debt collection,debt_collection,Attempts to collect debt not owed,Midwest Recovery Systems,FL,Web,Closed with explanation,Yes,341
+2566254,2017-07-05,2017-07,Debt collection,debt_collection,Written notification about debt,Midwest Recovery Systems,GA,Web,Closed with explanation,Yes,161
+3179083,2019-03-13,2019-03,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,190
+3305189,2019-07-13,2019-07,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,"BANK OF AMERICA, NATIONAL ASSOCIATION",VA,Web,Closed with explanation,Yes,43
+3188783,2019-03-23,2019-03,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,TCF NATIONAL BANK,MN,Web,Closed with explanation,Yes,221
+3613974,2020-04-20,2020-04,Mortgage,mortgage,Trouble during payment process,M&T BANK CORPORATION,GA,Web,Closed with explanation,Yes,182
+3178581,2019-03-13,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,449
+3284313,2019-06-23,2019-06,Mortgage,mortgage,Trouble during payment process,Franklin Credit Management Corporation,PR,Web,Closed with explanation,Yes,209
+3690561,2020-06-09,2020-06,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",NAVY FEDERAL CREDIT UNION,NV,Web,Closed with non-monetary relief,Yes,238
+3441872,2019-11-18,2019-11,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,CAPITAL ONE FINANCIAL CORPORATION,TX,Web,Closed with monetary relief,Yes,93
+3123152,2019-01-12,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,220
+3169543,2019-03-05,2019-03,Mortgage,mortgage,Trouble during payment process,M&T BANK CORPORATION,FL,Web,Closed with explanation,Yes,183
+3190312,2019-03-25,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Confusing or misleading advertising or marketing,"Consumer Financial Services Solutions, Inc.",TX,Web,Closed with explanation,Yes,152
+3345899,2019-08-19,2019-08,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,TOYOTA MOTOR CREDIT CORPORATION,CA,Web,Closed with non-monetary relief,Yes,178
+3152965,2019-02-15,2019-02,Mortgage,mortgage,Trouble during payment process,WELLS FARGO & COMPANY,TX,Web,Closed with explanation,Yes,85
+3117435,2019-01-05,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",MS,Web,Closed with explanation,Yes,563
+3402459,2019-10-10,2019-10,Debt collection,debt_collection,Took or threatened to take negative or legal action,Resurgent Capital Services L.P.,TN,Web,Closed with explanation,Yes,139
+3322844,2019-07-30,2019-07,Checking or savings account,bank_account,Managing an account,JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,149
+3155882,2019-02-19,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,MO,Web,Closed with explanation,Yes,121
+3349953,2019-08-22,2019-08,Mortgage,mortgage,Struggling to pay mortgage,MIDFIRST BANK,MA,Web,Closed with non-monetary relief,Yes,390
+3353568,2019-08-26,2019-08,Debt collection,debt_collection,Written notification about debt,"Cascade Capital, LLC",TX,Web,Closed with non-monetary relief,Yes,188
+3160142,2019-02-22,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,357
+3162413,2019-02-25,2019-02,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,WELLS FARGO & COMPANY,FL,Web,Closed with explanation,Yes,212
+3153416,2019-02-15,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,372
+3283189,2019-06-21,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,VA,Web,Closed with non-monetary relief,Yes,234
+3331699,2019-08-06,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,PORTFOLIO RECOVERY ASSOCIATES INC,CA,Web,Closed with non-monetary relief,Yes,145
+3158905,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Commonwealth Financial Systems, Inc.",FL,Web,Closed with explanation,Yes,297
+3192592,2019-03-27,2019-03,Debt collection,debt_collection,Communication tactics,"BALANCED HEALTHCARE RECEIVABLES, LLC",IN,Web,Closed with explanation,Yes,47
+3161230,2019-02-24,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",Alliance Data Card Services,VA,Web,Closed with explanation,Yes,387
+3296093,2019-07-04,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,123
+3100364,2018-12-14,2018-12,"Money transfer, virtual currency, or money service",money_transfer,Other transaction problem,JPMORGAN CHASE & CO.,NY,Web,Closed with explanation,Yes,446
+3160158,2019-02-22,2019-02,Debt collection,debt_collection,Threatened to contact someone or share information improperly,BTH Management,OH,Web,Closed with explanation,Yes,217
+3153317,2019-02-15,2019-02,Student loan,student_loan,Dealing with your lender or servicer,Texas Guaranteed,NY,Web,Closed with explanation,Yes,435
+3154596,2019-02-17,2019-02,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,"Paypal Holdings, Inc",TX,Web,Closed with monetary relief,Yes,229
+3625273,2020-04-27,2020-04,Debt collection,debt_collection,Took or threatened to take negative or legal action,"SUNRISE CREDIT SERVICES, INC",GA,Web,Closed with explanation,Yes,38
+3337088,2019-08-12,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,ERC,MA,Web,Closed with explanation,Yes,220
+3502205,2020-01-20,2020-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with explanation,Yes,217
+3111836,2018-12-28,2018-12,Vehicle loan or lease,vehicle_loan_or_lease,Struggling to pay your loan,Santander Consumer USA Holdings Inc.,CA,Web,Closed with explanation,Yes,421
+3256092,2019-05-29,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,356
+3266173,2019-06-06,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",TX,Web,Closed with explanation,Yes,21
+3304163,2019-07-12,2019-07,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",AZ,Web,Closed with explanation,Yes,200
+3203225,2019-04-05,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,143
+3554487,2020-03-04,2020-03,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,MUFG AMERICAS HOLDINGS CORPORATION,OR,Web,Closed with non-monetary relief,Yes,328
+3176305,2019-03-11,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,TN,Web,Closed with non-monetary relief,Yes,209
+3152656,2019-02-14,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",CAPITAL ONE FINANCIAL CORPORATION,MS,Web,Closed with explanation,Yes,509
+3299832,2019-07-09,2019-07,Debt collection,debt_collection,Took or threatened to take negative or legal action,"BANK OF AMERICA, NATIONAL ASSOCIATION",FL,Web,Closed with explanation,Yes,68
+3319070,2019-07-26,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Alliance Data Card Services,NY,Web,Closed with explanation,Yes,61
+3289458,2019-06-27,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,ENCORE CAPITAL GROUP INC.,MD,Web,Closed with explanation,Yes,246
+2390390,2017-03-16,2017-03,Mortgage,mortgage,"Application, originator, mortgage broker",Freedom Mortgage Company,WV,Web,Closed with explanation,Yes,205
+3294328,2019-07-02,2019-07,Checking or savings account,bank_account,Managing an account,"BANK OF AMERICA, NATIONAL ASSOCIATION",TX,Web,Closed with monetary relief,Yes,116
+3554184,2020-03-04,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with non-monetary relief,Yes,115
+3383143,2019-09-23,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",UT,Web,Closed with explanation,Yes,101
+3553230,2020-03-04,2020-03,Credit card or prepaid card,credit_card_or_prepaid_card,Problem getting a card or closing an account,NETSPEND CORPORATION,TX,Web,Closed with explanation,Yes,78
+3171302,2019-03-06,2019-03,Debt collection,debt_collection,Attempts to collect debt not owed,TD BANK US HOLDING COMPANY,MA,Web,Closed with monetary relief,Yes,400
+3220260,2019-04-23,2019-04,Debt collection,debt_collection,Threatened to contact someone or share information improperly,"JH Portfolio Debt Equities, LLC",MI,Web,Closed with explanation,Yes,9
+3397572,2019-10-06,2019-10,Mortgage,mortgage,Closing on a mortgage,"BANK OF AMERICA, NATIONAL ASSOCIATION",NY,Web,Closed with explanation,Yes,52
+2602017,2017-08-11,2017-08,Debt collection,debt_collection,Took or threatened to take negative or legal action,"Trident Asset Management, L.L.C.",MD,Web,Closed with explanation,Yes,203
+3301311,2019-07-10,2019-07,Debt collection,debt_collection,Attempts to collect debt not owed,We Collect Inc,OR,Web,Closed with explanation,Yes,181
+3319066,2019-07-26,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,145
+3305228,2019-07-13,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,141
+3320928,2019-07-29,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,126
+3502446,2020-01-20,2020-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NY,Web,Closed with non-monetary relief,Yes,50
+3300656,2019-07-09,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,DISCOVER BANK,DC,Web,Closed with explanation,Yes,458
+3322551,2019-07-29,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,92
+3378134,2019-09-18,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",MS,Web,Closed with explanation,Yes,191
+3277272,2019-06-17,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,"CITIBANK, N.A.",NJ,Web,Closed with explanation,Yes,161
+3848558,2020-09-16,2020-09,Mortgage,mortgage,Incorrect information on your report,"Shellpoint Partners, LLC",AZ,Web,Closed with explanation,Yes,193
+3097460,2018-12-11,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with non-monetary relief,Yes,43
+3284315,2019-06-23,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,105
+3213538,2019-04-16,2019-04,Debt collection,debt_collection,Took or threatened to take negative or legal action,"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",TX,Web,Closed with explanation,Yes,342
+3370979,2019-09-11,2019-09,Credit card or prepaid card,credit_card_or_prepaid_card,Trouble using your card,FIRST NATIONAL BANK OF OMAHA,OR,Web,Closed with explanation,Yes,157
+3298056,2019-07-07,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,Experian Information Solutions Inc.,MI,Web,Closed with non-monetary relief,Yes,153
+3120502,2019-01-09,2019-01,"Money transfer, virtual currency, or money service",money_transfer,Fraud or scam,MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,MD,Web,Closed with explanation,Yes,398
+3307871,2019-07-16,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Quality Asset Recovery LLC,NJ,Web,Closed with explanation,Yes,242
+3287825,2019-06-26,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase shown on your statement,BARCLAYS BANK DELAWARE,FL,Web,Closed with explanation,Yes,176
+3298767,2019-07-08,2019-07,Mortgage,mortgage,Struggling to pay mortgage,"Caliber Home Loans, Inc.",MD,Web,Closed with explanation,Yes,325
+3401796,2019-10-10,2019-10,Debt collection,debt_collection,Communication tactics,"SELECT PORTFOLIO SERVICING, INC.",VA,Web,Closed with explanation,Yes,100
+3170420,2019-03-05,2019-03,Mortgage,mortgage,Struggling to pay mortgage,"SELECT PORTFOLIO SERVICING, INC.",NJ,Web,Closed with explanation,Yes,81
+3257407,2019-05-29,2019-05,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,CA,Web,Closed with explanation,Yes,424
+3148551,2019-02-11,2019-02,Mortgage,mortgage,Struggling to pay mortgage,WELLS FARGO & COMPANY,FL,Web,Closed with explanation,Yes,106
+3294409,2019-07-02,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with fraud alerts or security freezes,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TN,Web,Closed with explanation,Yes,139
+3384234,2019-09-24,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,9
+3182051,2019-03-16,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NC,Web,Closed with explanation,Yes,63
+3160163,2019-02-22,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,CAPITAL ONE FINANCIAL CORPORATION,CA,Web,Closed with non-monetary relief,Yes,359
+3249700,2019-05-21,2019-05,Checking or savings account,bank_account,Closing an account,JPMORGAN CHASE & CO.,GA,Web,Closed with explanation,Yes,69
+4476271,2021-06-21,2021-06,Debt collection,debt_collection,Attempts to collect debt not owed,DISCOVER BANK,CA,Web,Closed with explanation,Yes,14
+4179775,2021-03-03,2021-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",GA,Web,Closed with explanation,Yes,40
+3201441,2019-04-04,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,184
+3294539,2019-07-02,2019-07,Mortgage,mortgage,Trouble during payment process,"Shellpoint Partners, LLC",CO,Web,Closed with explanation,Yes,433
+3101720,2018-12-16,2018-12,Debt collection,debt_collection,Attempts to collect debt not owed,ENCORE CAPITAL GROUP INC.,GA,Web,Closed with non-monetary relief,Yes,237
+3158487,2019-02-20,2019-02,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,TX,Web,Closed with explanation,Yes,440
+3523017,2020-02-06,2020-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,173
+2752117,2017-12-11,2017-12,Debt collection,debt_collection,Attempts to collect debt not owed,Midwest Recovery Systems,IN,Web,Closed with explanation,Yes,123
+3318013,2019-07-25,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"American Credit Acceptance, LLC",GA,Web,Closed with explanation,Yes,106
+3296480,2019-07-05,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,140
+3347527,2019-08-21,2019-08,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Struggling to pay your loan,"LDF Holdings, LLC",IL,Web,Closed with explanation,Yes,251
+3279296,2019-06-18,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a company's investigation into an existing issue,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with non-monetary relief,Yes,325
+3338346,2019-08-13,2019-08,Debt collection,debt_collection,Took or threatened to take negative or legal action,SYNCHRONY FINANCIAL,TX,Web,Closed with explanation,Yes,282
+3129483,2019-01-21,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,227
+3327626,2019-08-02,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",WA,Web,Closed with explanation,Yes,65
+3415631,2019-10-23,2019-10,Debt collection,debt_collection,Attempts to collect debt not owed,"Diversified Consultants, Inc.",SC,Web,Closed with explanation,Yes,25
+3552025,2020-03-03,2020-03,"Payday loan, title loan, or personal loan",payday_loan_title_loan_or_personal_loan,Charged fees or interest you didn't expect,TMX Finance LLC,NJ,Web,Closed with explanation,Yes,586
+3461916,2019-12-08,2019-12,"Money transfer, virtual currency, or money service",money_transfer,Confusing or missing disclosures,Instarem PTE Limited,GA,Web,Closed with explanation,Yes,327
+2559215,2017-06-26,2017-06,Mortgage,mortgage,Trouble during payment process,"Dovenmuehle Mortgage, Inc.",MA,Web,Closed with explanation,Yes,453
+3169856,2019-03-05,2019-03,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",SC,Web,Closed with explanation,Yes,732
+1337613,2015-04-20,2015-04,Bank account or service,bank_account,"Making/receiving payments, sending money",U.S. BANCORP,PA,Web,Closed with monetary relief,Yes,341
+3231073,2019-05-03,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,MO,Web,Closed with explanation,Yes,98
+3301695,2019-07-10,2019-07,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,CA,Web,Closed with explanation,Yes,276
+3399910,2019-10-08,2019-10,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",MO,Web,Closed with non-monetary relief,Yes,57
+3081683,2018-11-23,2018-11,Mortgage,mortgage,Incorrect information on your report,BBVA FINANCIAL CORPORATION,FL,Web,Closed with non-monetary relief,Yes,1839
+3450426,2019-11-26,2019-11,Debt collection,debt_collection,Attempts to collect debt not owed,"GLA Collection Company, Inc.",KY,Web,Closed with explanation,Yes,294
+3309717,2019-07-17,2019-07,Debt collection,debt_collection,Attempts to collect debt not owed,"CCS Financial Services, Inc.",NV,Web,Closed with explanation,Yes,161
+3151876,2019-02-14,2019-02,Debt collection,debt_collection,Written notification about debt,"Colony Brands, Inc.",VA,Web,Closed with explanation,No,54
+3151392,2019-02-13,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"General Motors Financial Company, Inc.",OH,Web,Closed with explanation,Yes,10
+3341760,2019-08-07,2019-08,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,AMERICAN EXPRESS COMPANY,OK,Web,Closed with explanation,Yes,87
+3319392,2019-07-26,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,124
+3553226,2020-03-04,2020-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,7
+3292861,2019-07-01,2019-07,Mortgage,mortgage,Trouble during payment process,"Servis One, Inc., Titusville, PA Branch",GA,Web,Closed with explanation,Yes,443
+3252717,2019-05-24,2019-05,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a purchase or transfer,CARD Corporation,CT,Web,Closed with explanation,No,578
+3301680,2019-07-10,2019-07,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",DE,Web,Closed with explanation,Yes,432
+3281341,2019-06-20,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,"State Collection Service, Inc.",WI,Web,Closed with explanation,Yes,172
+3425258,2019-11-01,2019-11,Mortgage,mortgage,Trouble during payment process,Selene Finance LP,TX,Web,Closed with explanation,Yes,134
+3181628,2019-03-16,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,246
+3269094,2019-06-09,2019-06,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,FL,Web,Closed with explanation,Yes,476
+3346320,2019-08-19,2019-08,Debt collection,debt_collection,Written notification about debt,"I.Q. DATA INTERNATIONAL, INC.",TX,Web,Closed with explanation,Yes,73
+3088536,2018-11-30,2018-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,43
+3179176,2019-03-14,2019-03,Student loan,student_loan,Dealing with your lender or servicer,GREAT LAKES,CA,Web,Closed with explanation,Yes,295
+1653836,2015-11-13,2015-11,Mortgage,mortgage,Credit decision / Underwriting,"FLAGSTAR BANK, FSB",CT,Web,Closed with explanation,Yes,206
+3192299,2019-03-27,2019-03,Student loan,student_loan,Dealing with your lender or servicer,"Nelnet, Inc.",CA,Web,Closed with explanation,Yes,347
+3246593,2019-05-18,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,201
+3133657,2019-01-25,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,40
+3299181,2019-07-08,2019-07,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems","CITIBANK, N.A.",PA,Web,Closed with explanation,Yes,110
+3146321,2019-02-08,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,AP,Web,Closed with non-monetary relief,Yes,92
+3373386,2019-09-13,2019-09,Mortgage,mortgage,Trouble during payment process,"LoanCare, LLC",TX,Web,Closed with explanation,Yes,186
+3244399,2019-05-16,2019-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,211
+3300738,2019-07-09,2019-07,Debt collection,debt_collection,Attempts to collect debt not owed,"Convergent Resources, Inc.",FL,Web,Closed with explanation,Yes,100
+3375187,2019-09-14,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",TX,Web,Closed with explanation,Yes,136
+3160689,2019-02-23,2019-02,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,JPMORGAN CHASE & CO.,VA,Web,Closed with explanation,Yes,730
+3163017,2019-02-26,2019-02,Vehicle loan or lease,vehicle_loan_or_lease,Getting a loan or lease,"CarMax, Inc.",MD,Web,Closed with explanation,Yes,64
+3165098,2019-02-28,2019-02,Debt collection,debt_collection,Attempts to collect debt not owed,AVANTE,FL,Web,Closed with explanation,Yes,43
+3268262,2019-06-08,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Amsher Collection Services, Inc.",AE,Web,Closed with explanation,Yes,202
+3098734,2018-12-12,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,CAPITAL ONE FINANCIAL CORPORATION,FL,Web,Closed with non-monetary relief,Yes,204
+3205705,2019-04-09,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,348
+3449094,2019-11-25,2019-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,159
+3311658,2019-07-19,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Merchants and Medical Credit Corporation, Inc.",MI,Web,Closed with explanation,Yes,45
+3161246,2019-02-24,2019-02,Mortgage,mortgage,Struggling to pay mortgage,Specialized Loan Servicing Holdings LLC,CA,Web,Closed with explanation,Yes,263
+3448905,2019-11-24,2019-11,Mortgage,mortgage,Trouble during payment process,Freedom Mortgage Company,MA,Web,Closed with explanation,Yes,150
+3175104,2019-03-10,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,AMERICAN HONDA FINANCE CORP,CT,Web,Closed with non-monetary relief,Yes,190
+3131487,2019-01-23,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,CAPITAL ONE FINANCIAL CORPORATION,IL,Web,Closed with explanation,Yes,341
+3183114,2019-03-18,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",IL,Web,Closed with explanation,Yes,262
+3266381,2019-06-06,2019-06,Credit card or prepaid card,credit_card_or_prepaid_card,Closing your account,JPMORGAN CHASE & CO.,NY,Web,Closed with explanation,Yes,274
+3606726,2020-04-15,2020-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"Navient Solutions, LLC.",FL,Web,Closed with explanation,Yes,113
+3330587,2019-08-05,2019-08,Debt collection,debt_collection,Took or threatened to take negative or legal action,"Madison Management Services, LLC",MD,Web,Closed with explanation,Yes,157
+3293094,2019-07-01,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"ID Analytics, Inc.",MD,Web,Closed with explanation,Yes,230
+3378447,2019-09-18,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",DE,Web,Closed with explanation,Yes,7
+3153610,2019-02-15,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,46
+3161508,2019-02-24,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",NV,Web,Closed with explanation,Yes,312
+3406016,2019-10-15,2019-10,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,"CITIBANK, N.A.",CA,Web,Closed with non-monetary relief,Yes,37
+3083973,2018-11-27,2018-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",CA,Web,Closed with non-monetary relief,Yes,71
+3093807,2018-12-07,2018-12,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a credit reporting company's investigation into an existing problem,CAPITAL ONE FINANCIAL CORPORATION,VA,Web,Closed with explanation,Yes,269
+3264562,2019-06-05,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,"EQUIFAX, INC.",GA,Web,Closed with non-monetary relief,Yes,45
+3419427,2019-10-28,2019-10,Debt collection,debt_collection,Communication tactics,JPMORGAN CHASE & CO.,NY,Web,Closed with non-monetary relief,Yes,18
+3354764,2019-08-27,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",CA,Web,Closed with explanation,Yes,168
+3488326,2020-01-07,2020-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Westlake Services, LLC",PA,Web,Closed with explanation,Yes,86
+3294650,2019-07-03,2019-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",VA,Web,Closed with explanation,Yes,259
+3181911,2019-03-16,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"MARINER FINANCE, LLC",FL,Web,Closed with explanation,Yes,67
+3276293,2019-06-15,2019-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",IN,Web,Closed with explanation,Yes,274
+3157203,2019-02-20,2019-02,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",AZ,Web,Closed with explanation,Yes,215
+3154852,2019-02-18,2019-02,Debt collection,debt_collection,Written notification about debt,"Retrieval-Masters Creditors Bureau, Inc., Elmsford, NY Branch",TX,Web,Closed with explanation,Yes,231
+3073694,2018-11-14,2018-11,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"Navient Solutions, LLC.",GA,Web,Closed with explanation,Yes,60
+2545701,2017-06-13,2017-06,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",JPMORGAN CHASE & CO.,TX,Web,Closed with explanation,Yes,62
+2625619,2017-07-14,2017-07,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,"EQUIFAX, INC.",CO,Web,Closed with explanation,Yes,199
+2590726,2017-07-31,2017-07,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",IA,Web,Closed with explanation,Yes,170
+2643770,2017-08-05,2017-08,Student loan,student_loan,Dealing with your lender or servicer,AES/PHEAA,FL,Web,Closed with non-monetary relief,Yes,463
+2681309,2017-09-22,2017-09,Debt collection,debt_collection,False statements or representation,LPSG,FL,Web,Closed with explanation,Yes,249
+3386224,2019-09-25,2019-09,Debt collection,debt_collection,Threatened to contact someone or share information improperly,"Advanced Collection Bureau, Inc.",FL,Web,Closed with explanation,Yes,151
+2700485,2017-10-12,2017-10,Checking or savings account,bank_account,Opening an account,"Fidelity National Information Services, Inc. (FNIS)",CA,Web,Closed with explanation,Yes,270
+3316786,2019-07-24,2019-07,Checking or savings account,bank_account,Managing an account,MoneyLion Inc.,TN,Web,Closed with explanation,No,34
+3210290,2019-04-12,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",GA,Web,Closed with explanation,Yes,122
+3154593,2019-02-17,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"General Motors Financial Company, Inc.",NJ,Web,Closed with explanation,Yes,38
+2716763,2017-11-01,2017-11,Credit card or prepaid card,credit_card_or_prepaid_card,"Advertising and marketing, including promotional offers",SYNCHRONY FINANCIAL,MD,Web,Closed with monetary relief,Yes,275
+3147373,2019-02-09,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,MO,Web,Closed with non-monetary relief,Yes,69
+3148463,2019-02-12,2019-02,Mortgage,mortgage,Closing on a mortgage,"Global Equity Finance, Inc.",CO,Web,Closed with explanation,No,1093
+3125190,2019-01-15,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,MO,Web,Closed with explanation,Yes,134
+3158823,2019-02-21,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",NC,Web,Closed with explanation,Yes,247
+3217903,2019-04-19,2019-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"General Motors Financial Company, Inc.",CA,Web,Closed with explanation,Yes,313
+3088500,2018-11-30,2018-11,Checking or savings account,bank_account,Managing an account,PNC Bank N.A.,GA,Web,Closed with explanation,Yes,309
+2468264,2017-04-27,2017-04,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",NV,Web,Closed with explanation,Yes,228
+3233290,2019-05-06,2019-05,Checking or savings account,bank_account,Managing an account,HSBC NORTH AMERICA HOLDINGS INC.,,Web,Closed with explanation,Yes,153
+2470915,2017-04-30,2017-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Alliance Data Card Services,OK,Web,Closed with non-monetary relief,Yes,120
+2474543,2017-05-03,2017-05,Debt collection,debt_collection,Attempts to collect debt not owed,"EQUIFAX, INC.",NM,Web,Closed with explanation,Yes,229
+2479310,2017-05-09,2017-05,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Unable to get your credit report or credit score,SYNCHRONY FINANCIAL,IL,Web,Closed with explanation,Yes,160
+2483920,2017-05-14,2017-05,Credit card or prepaid card,credit_card_or_prepaid_card,Getting a credit card,JPMORGAN CHASE & CO.,NC,Web,Closed with non-monetary relief,Yes,154
+3323433,2019-07-30,2019-07,Student loan,student_loan,Dealing with your lender or servicer,"Navient Solutions, LLC.",FL,Web,Closed with explanation,Yes,406
+2487768,2017-05-17,2017-05,Mortgage,mortgage,Trouble during payment process,PHH Mortgage Services Corporation,FL,Web,Closed with explanation,Yes,431
+3234082,2019-05-06,2019-05,Vehicle loan or lease,vehicle_loan_or_lease,Problems at the end of the loan or lease,"General Motors Financial Company, Inc.",VA,Web,Closed with explanation,Yes,90
+3176309,2019-03-11,2019-03,Checking or savings account,bank_account,Managing an account,HSBC NORTH AMERICA HOLDINGS INC.,NY,Web,Closed with explanation,Yes,173
+2762835,2017-12-22,2017-12,Student loan,student_loan,Dealing with your lender or servicer,GREAT LAKES,IN,Web,Closed with explanation,Yes,392
+2782196,2018-01-15,2018-01,Credit card or prepaid card,credit_card_or_prepaid_card,Advertising,NETSPEND CORPORATION,MA,Web,Closed with explanation,Yes,205
+3345404,2019-08-17,2019-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",FL,Web,Closed with explanation,Yes,780
+2784864,2018-01-17,2018-01,Debt collection,debt_collection,Attempts to collect debt not owed,Financial Business and Consumer Solutions.,CA,Web,Closed with explanation,Yes,223
+3219368,2019-04-22,2019-04,Credit card or prepaid card,credit_card_or_prepaid_card,"Other features, terms, or problems",JPMORGAN CHASE & CO.,CA,Web,Closed with explanation,Yes,1124
+3474860,2019-12-21,2019-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,Experian Information Solutions Inc.,CA,Web,Closed with explanation,Yes,145
+3137331,2019-01-30,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"EQUIFAX, INC.",NY,Web,Closed with explanation,Yes,157
+2656745,2017-09-01,2017-09,Student loan,student_loan,Dealing with your lender or servicer,"Nelnet, Inc.",CA,Web,Closed with explanation,Yes,65
+3266563,2019-06-06,2019-06,Mortgage,mortgage,Applying for a mortgage or refinancing an existing mortgage,PHH Mortgage Services Corporation,NY,Web,Closed with explanation,Yes,283
+2657419,2017-09-03,2017-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,KY,Web,Closed with explanation,Yes,411
+2646036,2017-08-22,2017-08,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,FL,Web,Closed with explanation,Yes,153
+2749628,2017-12-08,2017-12,Debt collection,debt_collection,False statements or representation,"Advance America, Cash Advance Centers, Inc.",KS,Web,Closed with explanation,Yes,358
+2790776,2018-01-23,2018-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,Experian Information Solutions Inc.,MO,Web,Closed with explanation,Yes,94
+3147936,2019-02-10,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",AL,Web,Closed with explanation,Yes,66
+3189545,2019-03-25,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,PA,Web,Closed with non-monetary relief,Yes,322
+2845886,2018-03-17,2018-03,Debt collection,debt_collection,Attempts to collect debt not owed,"Diversified Consultants, Inc.",WA,Web,Closed with non-monetary relief,Yes,121
+2866197,2018-04-05,2018-04,Mortgage,mortgage,Trouble during payment process,"Fay Servicing, LLC",VA,Web,Closed with explanation,Yes,302
+3366707,2019-09-07,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"CITIZENS FINANCIAL GROUP, INC.",CA,Web,Closed with explanation,Yes,285
+2868546,2018-04-09,2018-04,Checking or savings account,bank_account,Closing an account,WELLS FARGO & COMPANY,MN,Web,Closed with explanation,Yes,470
+2872754,2018-04-12,2018-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"EQUIFAX, INC.",NJ,Web,Closed with explanation,Yes,343
+3374171,2019-09-14,2019-09,Student loan,student_loan,Incorrect information on your report,"Navient Solutions, LLC.",NY,Web,Closed with explanation,Yes,80
+2879161,2018-04-18,2018-04,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"Receivables Performance Management, LLC",TX,Web,Closed with explanation,Yes,155
+3285510,2019-06-24,2019-06,Debt collection,debt_collection,Attempts to collect debt not owed,"Williams & Fudge, Inc",IL,Web,Closed with explanation,Yes,118
+2552361,2017-06-17,2017-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Problem with a credit reporting company's investigation into an existing problem,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,88
+2562725,2017-06-30,2017-06,Vehicle loan or lease,vehicle_loan_or_lease,Problems at the end of the loan or lease,FORD MOTOR CREDIT CO.,VA,Web,Closed with explanation,Yes,544
+3166222,2019-03-01,2019-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Credit monitoring or identity theft protection services,Experian Information Solutions Inc.,FL,Web,Closed with non-monetary relief,Yes,291
+3375103,2019-09-14,2019-09,Credit card or prepaid card,credit_card_or_prepaid_card,Problem with a credit reporting company's investigation into an existing problem,CAPITAL ONE FINANCIAL CORPORATION,NV,Web,Closed with explanation,Yes,106
+3318196,2019-07-25,2019-07,Debt collection,debt_collection,Took or threatened to take negative or legal action,NAVY FEDERAL CREDIT UNION,CA,Web,Closed with explanation,Yes,425
+3371053,2019-09-11,2019-09,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"CITIBANK, N.A.",NM,Web,Closed with explanation,Yes,34
+2800192,2018-01-31,2018-01,Debt collection,debt_collection,Attempts to collect debt not owed,"HCFS Health Care Financial Services, Inc.",PA,Web,Closed with explanation,Yes,338
+2836742,2018-03-08,2018-03,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",TX,Web,Closed with explanation,Yes,227
+2946383,2018-06-26,2018-06,Credit card or prepaid card,credit_card_or_prepaid_card,Problem when making payments,U.S. BANCORP,PA,Web,Closed with monetary relief,Yes,88
+3374975,2019-09-14,2019-09,Vehicle loan or lease,vehicle_loan_or_lease,Managing the loan or lease,NISSAN MOTOR ACCEPTANCE CORPORATION,GA,Web,Closed with explanation,Yes,71
+2978016,2018-07-31,2018-07,Debt collection,debt_collection,Attempts to collect debt not owed,"Receivables Management Partners, LLC",MI,Web,Closed with explanation,Yes,156
+3027384,2018-09-24,2018-09,Student loan,student_loan,Struggling to repay your loan,AES/PHEAA,MA,Web,Closed with explanation,Yes,182
+3094636,2018-12-07,2018-12,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,Experian Information Solutions Inc.,MN,Web,Closed with explanation,Yes,168
+3125951,2019-01-16,2019-01,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"BANK OF AMERICA, NATIONAL ASSOCIATION",WI,Web,Closed with non-monetary relief,Yes,426
+3154512,2019-02-17,2019-02,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Improper use of your report,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",FL,Web,Closed with explanation,Yes,30
+4427323,2021-06-02,2021-06,"Credit reporting, credit repair services, or other personal consumer reports",credit_reporting,Incorrect information on your report,"EQUIFAX, INC.",PA,Web,Closed with explanation,Yes,99

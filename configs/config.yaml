@@ -1,0 +1,23 @@
+project:
+  name: financial-complaint-nlp-resolution-agent
+  target_label: Product
+  text_column: Consumer complaint narrative
+  id_column: Complaint ID
+
+training:
+  test_size: 0.2
+  random_state: 42
+  max_features: 50000
+  min_text_chars: 40
+
+paths:
+  sample_data: data/sample/complaints_sample_1000.csv
+  baseline_model: models/baseline_tfidf_logreg.joblib
+  baseline_metrics: reports/baseline_metrics.json
+  rag_index: models/policy_faiss.index
+  rag_metadata: models/policy_metadata.json
+
+priority:
+  critical_threshold: 75
+  high_threshold: 55
+  medium_threshold: 35

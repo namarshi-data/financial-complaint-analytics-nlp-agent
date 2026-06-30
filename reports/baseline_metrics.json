@@ -1,0 +1,77 @@
+{
+  "row_count": 994,
+  "train_rows": 795,
+  "test_rows": 199,
+  "accuracy": 0.7788944723618091,
+  "macro_f1": 0.640593732392998,
+  "weighted_f1": 0.7688361373223876,
+  "classification_report": {
+    "bank_account": {
+      "precision": 0.6875,
+      "recall": 0.7857142857142857,
+      "f1-score": 0.7333333333333333,
+      "support": 14.0
+    },
+    "credit_card_or_prepaid_card": {
+      "precision": 0.75,
+      "recall": 0.6521739130434783,
+      "f1-score": 0.6976744186046512,
+      "support": 23.0
+    },
+    "credit_reporting": {
+      "precision": 0.872093023255814,
+      "recall": 0.8823529411764706,
+      "f1-score": 0.8771929824561403,
+      "support": 85.0
+    },
+    "debt_collection": {
+      "precision": 0.6944444444444444,
+      "recall": 0.7352941176470589,
+      "f1-score": 0.7142857142857143,
+      "support": 34.0
+    },
+    "money_transfer": {
+      "precision": 0.75,
+      "recall": 0.6,
+      "f1-score": 0.6666666666666666,
+      "support": 5.0
+    },
+    "mortgage": {
+      "precision": 0.7083333333333334,
+      "recall": 0.9444444444444444,
+      "f1-score": 0.8095238095238095,
+      "support": 18.0
+    },
+    "payday_loan_title_loan_or_personal_loan": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 4.0
+    },
+    "student_loan": {
+      "precision": 0.6666666666666666,
+      "recall": 0.5454545454545454,
+      "f1-score": 0.6,
+      "support": 11.0
+    },
+    "vehicle_loan_or_lease": {
+      "precision": 0.75,
+      "recall": 0.6,
+      "f1-score": 0.6666666666666666,
+      "support": 5.0
+    },
+    "accuracy": 0.7788944723618091,
+    "macro avg": {
+      "precision": 0.6532263853000287,
+      "recall": 0.6383815830533648,
+      "f1-score": 0.640593732392998,
+      "support": 199.0
+    },
+    "weighted avg": {
+      "precision": 0.764810811161752,
+      "recall": 0.7788944723618091,
+      "f1-score": 0.7688361373223876,
+      "support": 199.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "backend": "tfidf",
+  "docs": [
+    {
+      "source": "complaint_triage_policy.md",
+      "chunk_id": 0,
+      "text": "All customer complaints must be classified by product, issue type, risk level, and required next action. Complaints involving fraud, identity theft, credit reporting harm, mortgage foreclosure, debt collection harassment, legal threats, or vulnerable customers must be escalated for human review."
+    },
+    {
+      "source": "complaint_triage_policy.md",
+      "chunk_id": 1,
+      "text": "Low-risk complaints can receive a standard acknowledgement and be routed to the correct service team. Medium-risk complaints require analyst review within the standard SLA. High-risk and critical complaints require urgent review, documentation of evidence, and escalation to a specialized team."
+    },
+    {
+      "source": "complaint_triage_policy.md",
+      "chunk_id": 2,
+      "text": "The response must acknowledge the customer's concern, avoid admitting liability, avoid promising a specific outcome, and explain the next review step."
+    },
+    {
+      "source": "credit_reporting_policy.md",
+      "chunk_id": 0,
+      "text": "Credit reporting complaints often involve incorrect account information, identity theft, disputes not investigated, outdated information, or accounts that do not belong to the consumer. These complaints are sensitive because they can affect credit access, loan pricing, employment screening, and customer trust."
+    },
+    {
+      "source": "credit_reporting_policy.md",
+      "chunk_id": 1,
+      "text": "The analyst should verify the complaint category, review supporting documentation, confirm whether the disputed information was reported by the institution, and route the case to the credit bureau dispute or furnishing operations team when applicable."
+    },
+    {
+      "source": "credit_reporting_policy.md",
+      "chunk_id": 2,
+      "text": "Customer responses should explain that the information will be reviewed, that supporting documentation may be required, and that the company will communicate the outcome after investigation. Do not promise removal or correction before verification."
+    },
+    {
+      "source": "debt_collection_policy.md",
+      "chunk_id": 0,
+      "text": "Debt collection complaints may involve attempts to collect a debt not owed, communication frequency, harassment, threats, incorrect balance, lack of debt validation, or disputes about ownership of the debt."
+    },
+    {
+      "source": "debt_collection_policy.md",
+      "chunk_id": 1,
+      "text": "Analysts should verify account ownership, debt status, communication history, and validation documentation. Complaints alleging harassment, threats, or legal action should be escalated. Customer responses should be empathetic, factual, and should not confirm debt responsibility without verification."
+    },
+    {
+      "source": "fraud_and_identity_theft_policy.md",
+      "chunk_id": 0,
+      "text": "# Fraud and Identity Theft Escalation Policy"
+    },
+    {
+      "source": "fraud_and_identity_theft_policy.md",
+      "chunk_id": 1,
+      "text": "Complaints involving suspected fraud, unauthorized transactions, account takeover, identity theft, or forged applications require high-priority handling. The case should be escalated to fraud operations and may require temporary account controls, transaction review, customer authentication, and documentation collection."
+    },
+    {
+      "source": "fraud_and_identity_theft_policy.md",
+      "chunk_id": 2,
+      "text": "The response should acknowledge urgency, provide a safe next step, and avoid requesting sensitive personal information through unsecured channels. If a customer reports active harm, the agent should recommend immediate human review."
+    },
+    {
+      "source": "mortgage_servicing_policy.md",
+      "chunk_id": 0,
+      "text": "Mortgage servicing complaints can involve payment application, escrow, fees, loan modification, foreclosure, or servicing transfer issues. These cases can create significant financial harm and reputational risk."
+    },
+    {
+      "source": "mortgage_servicing_policy.md",
+      "chunk_id": 1,
+      "text": "Complaints mentioning foreclosure, eviction, payment misapplication, or failed loss-mitigation review should be treated as high or critical priority. The analyst should route the complaint to mortgage servicing specialists and document the timeline of customer contact, payment history, and pending actions."
+    }
+  ]
+}

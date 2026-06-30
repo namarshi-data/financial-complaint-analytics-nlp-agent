@@ -1,0 +1,334 @@
+Company,label_clean,complaint_count,timely_rate
+Experian Information Solutions Inc.,credit_reporting,115,1.0
+"EQUIFAX, INC.",credit_reporting,113,0.9911504424778761
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",credit_reporting,111,1.0
+"Navient Solutions, LLC.",student_loan,22,1.0
+JPMORGAN CHASE & CO.,credit_card_or_prepaid_card,18,1.0
+CAPITAL ONE FINANCIAL CORPORATION,credit_card_or_prepaid_card,17,1.0
+AES/PHEAA,student_loan,14,1.0
+"CITIBANK, N.A.",credit_card_or_prepaid_card,14,1.0
+JPMORGAN CHASE & CO.,bank_account,14,1.0
+SYNCHRONY FINANCIAL,credit_card_or_prepaid_card,12,1.0
+WELLS FARGO & COMPANY,bank_account,9,0.7777777777777778
+WELLS FARGO & COMPANY,mortgage,8,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",bank_account,8,1.0
+Midwest Recovery Systems,debt_collection,8,0.75
+Alliance Data Card Services,credit_card_or_prepaid_card,8,1.0
+ENCORE CAPITAL GROUP INC.,debt_collection,7,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",credit_card_or_prepaid_card,7,1.0
+WELLS FARGO & COMPANY,credit_card_or_prepaid_card,7,0.8571428571428571
+U.S. BANCORP,credit_card_or_prepaid_card,6,1.0
+"CITIBANK, N.A.",bank_account,6,1.0
+"Shellpoint Partners, LLC",mortgage,6,0.8333333333333334
+CAPITAL ONE FINANCIAL CORPORATION,credit_reporting,6,1.0
+"CCS Financial Services, Inc.",debt_collection,6,1.0
+"Nelnet, Inc.",student_loan,5,1.0
+"Paypal Holdings, Inc",money_transfer,5,1.0
+"EQUIFAX, INC.",debt_collection,5,1.0
+"CITIBANK, N.A.",credit_reporting,5,1.0
+WELLS FARGO & COMPANY,credit_reporting,5,1.0
+"Navient Solutions, LLC.",credit_reporting,4,1.0
+Ocwen Financial Corporation,mortgage,4,1.0
+DISCOVER BANK,credit_card_or_prepaid_card,4,1.0
+NAVY FEDERAL CREDIT UNION,bank_account,4,1.0
+"SELECT PORTFOLIO SERVICING, INC.",mortgage,4,1.0
+"FLAGSTAR BANK, FSB",mortgage,4,1.0
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,money_transfer,4,1.0
+Resurgent Capital Services L.P.,debt_collection,4,1.0
+"Diversified Consultants, Inc.",debt_collection,4,1.0
+AMERICAN HONDA FINANCE CORP,credit_reporting,3,1.0
+FIRST NATIONAL BANK OF OMAHA,credit_card_or_prepaid_card,3,1.0
+AES/PHEAA,credit_reporting,3,1.0
+"Fay Servicing, LLC",mortgage,3,1.0
+Freedom Mortgage Company,mortgage,3,1.0
+AMERICAN EXPRESS COMPANY,credit_card_or_prepaid_card,3,1.0
+PNC Bank N.A.,bank_account,3,1.0
+WELLS FARGO & COMPANY,money_transfer,3,1.0
+JPMORGAN CHASE & CO.,debt_collection,3,1.0
+Santander Consumer USA Holdings Inc.,vehicle_loan_or_lease,3,1.0
+JPMORGAN CHASE & CO.,credit_reporting,3,1.0
+M&T BANK CORPORATION,mortgage,3,1.0
+BARCLAYS BANK DELAWARE,credit_card_or_prepaid_card,3,1.0
+SYNCHRONY FINANCIAL,credit_reporting,3,1.0
+JPMORGAN CHASE & CO.,money_transfer,3,1.0
+"I.Q. DATA INTERNATIONAL, INC.",debt_collection,3,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",money_transfer,3,1.0
+HSBC NORTH AMERICA HOLDINGS INC.,bank_account,3,1.0
+ALLY FINANCIAL INC.,vehicle_loan_or_lease,3,1.0
+Ditech Financial LLC,mortgage,3,1.0
+"General Motors Financial Company, Inc.",credit_reporting,3,1.0
+"General Motors Financial Company, Inc.",vehicle_loan_or_lease,3,1.0
+"Convergent Resources, Inc.",debt_collection,3,1.0
+"Complete Credit Solutions, Inc.",debt_collection,2,1.0
+"SUNRISE CREDIT SERVICES, INC",debt_collection,2,1.0
+"STERLING JEWELERS, INC.",debt_collection,2,1.0
+SLM CORPORATION,student_loan,2,1.0
+"Credit Protection Association, L.P.",debt_collection,2,1.0
+DISCOVER BANK,debt_collection,2,1.0
+"Dovenmuehle Mortgage, Inc.",mortgage,2,1.0
+"Commonwealth Financial Systems, Inc.",debt_collection,2,1.0
+NAVY FEDERAL CREDIT UNION,debt_collection,2,1.0
+"LAKEVIEW LOAN SERVICING, LLC",mortgage,2,1.0
+JPMORGAN CHASE & CO.,mortgage,2,1.0
+"LoanCare, LLC",mortgage,2,1.0
+NETSPEND CORPORATION,credit_card_or_prepaid_card,2,1.0
+"ID Analytics, Inc.",credit_reporting,2,1.0
+"NRA Group, LLC",credit_reporting,2,1.0
+HSBC NORTH AMERICA HOLDINGS INC.,debt_collection,2,1.0
+"Opportunity Financial, LLC",payday_loan_title_loan_or_personal_loan,2,0.5
+PHH Mortgage Services Corporation,mortgage,2,1.0
+Phoenix Financial Services LLC,debt_collection,2,1.0
+"GVA Holdings, LLC",payday_loan_title_loan_or_personal_loan,2,1.0
+"Commonwealth Financial Systems, Inc.",credit_reporting,2,1.0
+GREAT LAKES,student_loan,2,1.0
+PNC Bank N.A.,payday_loan_title_loan_or_personal_loan,2,1.0
+"FIRST CITIZENS BANCSHARES, INC.",mortgage,2,1.0
+"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",debt_collection,2,1.0
+"FAIR COLLECTIONS & OUTSOURCING, INC.",debt_collection,2,1.0
+"Retrieval-Masters Creditors Bureau, Inc., Elmsford, NY Branch",debt_collection,2,1.0
+ERC,debt_collection,2,1.0
+ERC,credit_reporting,2,1.0
+NATIONSTAR MORTGAGE,mortgage,2,1.0
+"CITIBANK, N.A.",debt_collection,2,1.0
+CARD Corporation,credit_card_or_prepaid_card,2,0.5
+"CITIZENS FINANCIAL GROUP, INC.",bank_account,2,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",credit_reporting,2,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",debt_collection,2,1.0
+SYNCHRONY FINANCIAL,debt_collection,2,1.0
+"Caliber Home Loans, Inc.",mortgage,2,1.0
+TMX Finance LLC,payday_loan_title_loan_or_personal_loan,2,1.0
+TD BANK US HOLDING COMPANY,bank_account,2,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",mortgage,2,1.0
+Specialized Loan Servicing Holdings LLC,mortgage,2,1.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",debt_collection,2,1.0
+Alliance Data Card Services,credit_reporting,2,1.0
+BARCLAYS BANK DELAWARE,credit_reporting,2,1.0
+BBVA FINANCIAL CORPORATION,bank_account,2,1.0
+U.S. BANCORP,bank_account,2,1.0
+"Credit Karma, LLC",credit_reporting,2,0.5
+ALLY FINANCIAL INC.,bank_account,2,1.0
+"The CMI Group, Inc.",debt_collection,2,1.0
+Bridgecrest Acceptance Corporation,credit_reporting,2,1.0
+TOYOTA MOTOR CREDIT CORPORATION,vehicle_loan_or_lease,2,1.0
+Zenith Financial Network Inc,debt_collection,1,1.0
+"Northern Trust Company, The",debt_collection,1,1.0
+"ONEMAIN FINANCIAL HOLDINGS, LLC.",payday_loan_title_loan_or_personal_loan,1,1.0
+"American Profit Recovery, Inc., Marlborough, MA Branch",debt_collection,1,1.0
+"Amsher Collection Services, Inc.",credit_reporting,1,1.0
+"Amsher Collection Services, Inc.",debt_collection,1,1.0
+"American Credit Acceptance, LLC",credit_reporting,1,1.0
+PENTAGON FEDERAL CREDIT UNION,credit_card_or_prepaid_card,1,1.0
+PERLAND TITLE & ESCROW SERVICES CORP,debt_collection,1,1.0
+Alliance Data Card Services,debt_collection,1,1.0
+"Advanced Collection Bureau, Inc.",debt_collection,1,1.0
+"Advance America, Cash Advance Centers, Inc.",debt_collection,1,1.0
+PNC Bank N.A.,mortgage,1,1.0
+Ad Astra Recovery Services Inc,credit_reporting,1,1.0
+"Navient Solutions, LLC.",debt_collection,1,1.0
+Merchants' Credit Guide Company,debt_collection,1,1.0
+"Midwest Fidelity Services, LLC",debt_collection,1,1.0
+MoneyLion Inc.,bank_account,1,0.0
+BBVA FINANCIAL CORPORATION,mortgage,1,1.0
+MoneyLion Inc.,payday_loan_title_loan_or_personal_loan,1,1.0
+BANK OF THE WEST,vehicle_loan_or_lease,1,1.0
+BANK OF THE WEST,bank_account,1,1.0
+NAVY FEDERAL CREDIT UNION,credit_card_or_prepaid_card,1,1.0
+NAVY FEDERAL CREDIT UNION,credit_reporting,1,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",vehicle_loan_or_lease,1,1.0
+NISSAN MOTOR ACCEPTANCE CORPORATION,vehicle_loan_or_lease,1,1.0
+NAVY FEDERAL CREDIT UNION,vehicle_loan_or_lease,1,1.0
+"NCC Business Services, Inc.",credit_reporting,1,1.0
+"BALANCED HEALTHCARE RECEIVABLES, LLC",debt_collection,1,1.0
+"Avid Acceptance, LLC",vehicle_loan_or_lease,1,1.0
+Avant Credit Corporation,credit_reporting,1,1.0
+"Auto Advantage Finance, LLC",vehicle_loan_or_lease,1,1.0
+POPULAR BANK,bank_account,1,1.0
+"Associated Credit Services, Inc.",debt_collection,1,1.0
+"Applied Data Finance, LLC",debt_collection,1,1.0
+"National Credit Adjusters, LLC",debt_collection,1,1.0
+"National Enterprise Systems, Inc.",debt_collection,1,1.0
+NAVY FEDERAL CREDIT UNION,money_transfer,1,1.0
+Riverwalk Financial Corporation,credit_reporting,1,1.0
+"Rocket Mortgage, LLC",mortgage,1,1.0
+RoundPoint Mortgage Servicing Corporation,debt_collection,1,1.0
+RoundPoint Mortgage Servicing Corporation,mortgage,1,1.0
+"WESTERN UNION COMPANY, THE",money_transfer,1,1.0
+"WEBSTER BANK, NATIONAL ASSOCIATION",bank_account,1,1.0
+"Rubin & Rothman, LLC",debt_collection,1,1.0
+VALLEY NATIONAL BANCORP,bank_account,1,1.0
+Utah System of Higher Education,credit_reporting,1,1.0
+United Acceptance Inc.,vehicle_loan_or_lease,1,1.0
+"Russell Collection Agency, Inc",debt_collection,1,1.0
+UNITED SERVICES AUTOMOBILE ASSOCIATION,vehicle_loan_or_lease,1,1.0
+PRESTIGE FINANCIAL SERVICES INC,vehicle_loan_or_lease,1,1.0
+UMB FINANCIAL CORPORATION,bank_account,1,1.0
+"SELECT PORTFOLIO SERVICING, INC.",debt_collection,1,1.0
+U.S. BANCORP,mortgage,1,1.0
+"Merchants and Professional Bureau, Inc.",debt_collection,1,1.0
+U.S. BANCORP,credit_reporting,1,1.0
+"TRIAD FINANCIAL SERVICES, INC.",consumer_loan,1,1.0
+SHABANA MOTORS,vehicle_loan_or_lease,1,1.0
+"Trident Asset Management, L.L.C.",debt_collection,1,1.0
+TransferWise Ltd,money_transfer,1,1.0
+"The Outsource Group, Inc",debt_collection,1,1.0
+Texas Guaranteed,student_loan,1,1.0
+"The Allen Daniel Associates, Inc.",debt_collection,1,1.0
+"SANTANDER BANK, NATIONAL ASSOCIATION",bank_account,1,1.0
+PORTFOLIO RECOVERY ASSOCIATES INC,credit_reporting,1,1.0
+PORTFOLIO RECOVERY ASSOCIATES INC,debt_collection,1,1.0
+"Paypal Holdings, Inc",credit_card_or_prepaid_card,1,1.0
+"ACIMA CREDIT, LLC",debt_collection,1,1.0
+"Pendrick Capital Partners Holding, LLC",debt_collection,1,1.0
+Penn Credit Corporation,debt_collection,1,1.0
+Perfection Collection,credit_reporting,1,1.0
+"Peter T. Roach and Associates, P.C.",mortgage,1,1.0
+Worth Finance Corporation,payday_loan_title_loan_or_personal_loan,1,1.0
+WorldRemit Corp.,money_transfer,1,1.0
+World Omni Financial Corp.,credit_reporting,1,1.0
+"Platinum Holdings Group, LLC",debt_collection,1,1.0
+WINNPOINTE CORPORATION,mortgage,1,0.0
+World Acceptance Corporation,debt_collection,1,1.0
+"Williams & Fudge, Inc",debt_collection,1,1.0
+Profit Services Group,credit_reporting,1,0.0
+Quality Asset Recovery LLC,credit_reporting,1,1.0
+REGIONS FINANCIAL CORPORATION,credit_reporting,1,1.0
+"Westlake Services, LLC",credit_reporting,1,1.0
+Westcreek Financial,debt_collection,1,1.0
+"Real Time Group, Inc.",mortgage,1,1.0
+"Receivables Management Partners, LLC",debt_collection,1,1.0
+"Receivables Outsourcing, Inc.",debt_collection,1,1.0
+"Receivables Performance Management, LLC",credit_reporting,1,1.0
+We Collect Inc,debt_collection,1,1.0
+"Pollack & Rosen, P.A.",debt_collection,1,1.0
+"C & M Associates Group, Inc.",debt_collection,1,1.0
+CAPITAL ONE FINANCIAL CORPORATION,bank_account,1,1.0
+CAPITAL ONE FINANCIAL CORPORATION,payday_loan_title_loan_or_personal_loan,1,1.0
+"CCS Financial Services, Inc.",credit_reporting,1,1.0
+"CHARLES SCHWAB CORPORATION, THE",bank_account,1,1.0
+CHECK INTO CASH INC.,credit_card_or_prepaid_card,1,1.0
+CHECK INTO CASH INC.,credit_reporting,1,1.0
+"CIT BANK, NATIONAL ASSOCIATION",bank_account,1,1.0
+"CITIBANK, N.A.",money_transfer,1,1.0
+"CITIBANK, N.A.",money_transfers,1,1.0
+"CITIBANK, N.A.",mortgage,1,1.0
+"CITIZENS FINANCIAL GROUP, INC.",credit_reporting,1,1.0
+"CITIZENS FINANCIAL GROUP, INC.",mortgage,1,1.0
+COAST PROFESSIONAL INC,debt_collection,1,1.0
+CREDIT ACCEPTANCE CORPORATION,debt_collection,1,1.0
+BMO HARRIS BANK NATIONAL ASSOCIATION,mortgage,1,1.0
+"Consumer Financial Services Solutions, Inc.",credit_reporting,1,1.0
+"Conn's, Inc.",debt_collection,1,1.0
+"Community Loan Servicing, LLC (formerly known as Bayview Loan Servicing, LLC)",mortgage,1,1.0
+Columbia Recovery Group LLC,debt_collection,1,0.0
+"Colony Brands, Inc.",debt_collection,1,0.0
+College Loan Corporation,debt_collection,1,1.0
+"College Ave Student Loan Servicing, LLC",student_loan,1,1.0
+CURO Intermediate Holdings,debt_collection,1,1.0
+"Coinbase, Inc.",money_transfer,1,1.0
+Clark County Collection Service,debt_collection,1,1.0
+"Choice Recovery, Inc.",debt_collection,1,1.0
+"Checkr, Inc",credit_reporting,1,1.0
+Ceannate,student_loan,1,1.0
+"Cascade Capital, LLC",debt_collection,1,1.0
+"CarMax, Inc.",vehicle_loan_or_lease,1,1.0
+"Capital Accounts, LLC",debt_collection,1,1.0
+Collection Bureau of America Ltd.,debt_collection,1,0.0
+ALLY FINANCIAL INC.,money_transfer,1,1.0
+AMERICAN EXPRESS COMPANY,debt_collection,1,1.0
+AMERISAVE MORTGAGE CORPORATION,mortgage,1,1.0
+AVANTE,debt_collection,1,1.0
+"Ability Recovery Services, LLC",debt_collection,1,1.0
+Santander Consumer USA Holdings Inc.,debt_collection,1,1.0
+BTH Management,debt_collection,1,1.0
+"SUNTRUST BANKS, INC.",bank_account,1,1.0
+"SUNTRUST BANKS, INC.",debt_collection,1,1.0
+SYNCHRONY FINANCIAL,bank_account,1,1.0
+SYNCHRONY FINANCIAL,payday_loan_title_loan_or_personal_loan,1,1.0
+"ACIMA CREDIT, LLC",payday_loan_title_loan_or_personal_loan,1,1.0
+Santander Consumer USA Holdings Inc.,payday_loan_title_loan_or_personal_loan,1,1.0
+"Security Credit Services, LLC",debt_collection,1,1.0
+Selene Finance LP,mortgage,1,1.0
+Brown’s New Credit Bureau Inc.,debt_collection,1,0.0
+Bridgecrest Acceptance Corporation,vehicle_loan_or_lease,1,1.0
+"Bliksum, LLC",debt_collection,1,1.0
+"Better Mortgage, Inc.",mortgage,1,0.0
+Berco Finance Corp,credit_reporting,1,1.0
+"American Financial Resources, Inc.",mortgage,1,1.0
+TRANSWORLD SYSTEMS INC,debt_collection,1,1.0
+TOYOTA MOTOR CREDIT CORPORATION,debt_collection,1,1.0
+"Sequium Asset Solutions, LLC",debt_collection,1,1.0
+TD BANK US HOLDING COMPANY,credit_reporting,1,1.0
+TCF NATIONAL BANK,mortgage,1,1.0
+TCF NATIONAL BANK,bank_account,1,1.0
+Supreme Lending,mortgage,1,1.0
+State Home Mortgage,mortgage,1,0.0
+"State Collection Service, Inc.",debt_collection,1,1.0
+"Seterus, Inc.",mortgage,1,1.0
+"Servis One, Inc., Titusville, PA Branch",mortgage,1,1.0
+TD BANK US HOLDING COMPANY,debt_collection,1,1.0
+"Frontline Asset Strategies, LLC",debt_collection,1,1.0
+"GLA Collection Company, Inc.",debt_collection,1,1.0
+"GLOBAL CLIENT SOLUTIONS, LLC",student_loan,1,1.0
+"Global Equity Finance, Inc.",mortgage,1,0.0
+"Gurstel Law Firm, P.C.",debt_collection,1,1.0
+"HCFS Health Care Financial Services, Inc.",debt_collection,1,1.0
+HIGHER EDUCATION STUDENT ASSISTANCE AUTHORITY (HESAA),student_loan,1,1.0
+HSBC NORTH AMERICA HOLDINGS INC.,credit_card_or_prepaid_card,1,1.0
+HSBC NORTH AMERICA HOLDINGS INC.,mortgage,1,1.0
+"HUNTINGTON NATIONAL BANK, THE",mortgage,1,1.0
+"Harpeth Financial Services, LLC",payday_loan_title_loan_or_personal_loan,1,1.0
+"Helvey & Associates, Inc., Warsaw, IN Branch",debt_collection,1,1.0
+"Herbert P. Sears Co., Inc.",debt_collection,1,1.0
+Hillcrest Davidson & Assoc,debt_collection,1,1.0
+"Home Loan Center, Inc.",money_transfer,1,1.0
+"Continental Finance Company, LLC",debt_collection,1,1.0
+"Merchants and Medical Credit Corporation, Inc.",credit_reporting,1,1.0
+"Madison Management Services, LLC",debt_collection,1,1.0
+"MVBA, L.L.C.",debt_collection,1,1.0
+MUFG AMERICAS HOLDINGS CORPORATION,mortgage,1,1.0
+MIDFIRST BANK,mortgage,1,1.0
+"MCU Holdings, LLC",debt_collection,1,1.0
+"MARINER FINANCE, LLC",credit_reporting,1,1.0
+Home Point Financial Corporation,mortgage,1,1.0
+LPSG,debt_collection,1,1.0
+"LDF Holdings, LLC",payday_loan_title_loan_or_personal_loan,1,1.0
+"Key 2 Recovery, Inc.",debt_collection,1,1.0
+"Jim Bottin Enterprises, Inc",debt_collection,1,1.0
+JPMORGAN CHASE & CO.,vehicle_loan_or_lease,1,1.0
+"JH Portfolio Debt Equities, LLC",debt_collection,1,1.0
+Instarem PTE Limited,money_transfer,1,1.0
+"HomeTown Lenders, LLC",mortgage,1,1.0
+Law Office of Harris & Zide,debt_collection,1,1.0
+"Convergent Resources, Inc.",credit_reporting,1,1.0
+Credit Corp Solutions Inc.,debt_collection,1,1.0
+Creditors Bureau Associates,debt_collection,1,1.0
+DISCOVER BANK,credit_reporting,1,1.0
+"Direct Recovery Services, LLC",debt_collection,1,1.0
+"ENOVA INTERNATIONAL, INC.",payday_loan_title_loan_or_personal_loan,1,1.0
+ETHOS LENDING LLC,mortgage,1,1.0
+EXCEL FINANCE COMPANY,payday_loan_title_loan_or_personal_loan,1,1.0
+"Eagle Accounts Group, Inc.",credit_reporting,1,1.0
+Earnest Inc.,student_loan,1,1.0
+Eaton Group Attorneys LLC,debt_collection,1,1.0
+Equitable Acceptance Corp,payday_loan_title_loan_or_personal_loan,1,1.0
+Equitable Acceptance Corp,student_loan,1,1.0
+Exeter Finance Corp.,debt_collection,1,1.0
+Exeter Finance Corp.,vehicle_loan_or_lease,1,1.0
+Franklin Credit Management Corporation,mortgage,1,1.0
+Flandreau Santee Sioux Tribe,payday_loan_title_loan_or_personal_loan,1,1.0
+FirstPoint Collection Resources,debt_collection,1,1.0
+First Data Corporation,credit_reporting,1,1.0
+First Associates Loan Servicing LLC,student_loan,1,1.0
+"Financial Credit Service, Inc.",debt_collection,1,0.0
+Financial Business and Consumer Solutions.,debt_collection,1,1.0
+Finance of America Mortgage LLC,mortgage,1,1.0
+Experian Information Solutions Inc.,credit_card_or_prepaid_card,1,1.0
+"Fidelity National Information Services, Inc. (FNIS)",bank_account,1,1.0
+FORD MOTOR CREDIT CO.,vehicle_loan_or_lease,1,1.0
+FISERV INC.,debt_collection,1,1.0
+FIRST NATIONAL BANK OF OMAHA,mortgage,1,1.0
+"FIRST CITIZENS BANCSHARES, INC.",bank_account,1,1.0
+FIFTH THIRD FINANCIAL CORPORATION,mortgage,1,1.0
+FIFTH THIRD FINANCIAL CORPORATION,debt_collection,1,1.0
+FIFTH THIRD FINANCIAL CORPORATION,credit_reporting,1,1.0
+"Fidelity National Information Services, Inc. (FNIS)",credit_reporting,1,1.0
